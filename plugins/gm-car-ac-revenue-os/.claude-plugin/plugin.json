@@ -1,0 +1,42 @@
+{
+  "name": "gm-car-ac-revenue-os",
+  "version": "0.1.0",
+  "description": "A free-first AI revenue operating system for GM Car A/C Service: A/C, general servicing, car electricals, competitors, ads, local SEO, WhatsApp sales, fleet outreach, and training growth.",
+  "author": {
+    "name": "GM Car AC Service"
+  },
+  "homepage": "https://gmcaracservice.com/",
+  "license": "MIT",
+  "keywords": [
+    "gm-car-ac-service",
+    "revenue-operations",
+    "local-seo",
+    "whatsapp-sales",
+    "fleet-outreach",
+    "ads",
+    "retention",
+    "analytics"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "GM Car AC Revenue OS",
+    "shortDescription": "Free-first GM revenue control center.",
+    "longDescription": "A Codex-compatible AI revenue operating system for GM Car A/C Service in Ambattur, Chennai. It coordinates A/C service growth, general servicing, car electricals, competitor tracking, offers, ads, landing pages, WhatsApp sales, call scripts, local SEO, fleet outreach, Instagram content for @gmcaracservice, retention, analytics, and the INR 10 crore annual revenue target.",
+    "developerName": "GM Car AC Service",
+    "category": "Productivity",
+    "capabilities": [
+      "Write",
+      "Analyze",
+      "Plan"
+    ],
+    "websiteURL": "https://gmcaracservice.com/",
+    "defaultPrompt": [
+      "Use $gm-car-ac-growth-orchestrator to grow GM leads and bookings.",
+      "Use $gm-competitor-reach-agent to analyze Ambattur competitors.",
+      "Use $gm-social-media-agent to plan Instagram content."
+    ],
+    "brandColor": "#0D1F3C",
+    "composerIcon": "./assets/brand/logo-bgrem.png",
+    "logo": "./assets/brand/logo-bgrem.png"
+  }
+}

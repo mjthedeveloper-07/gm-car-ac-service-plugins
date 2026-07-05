@@ -1,0 +1,23 @@
+{
+  "name": "gm-car-ac-service-plugins",
+  "owner": {
+    "name": "mjthedeveloper-07",
+    "email": "jagathratchaganias3@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "gm-car-ac-revenue-os",
+      "source": "./plugins/gm-car-ac-revenue-os",
+      "version": "1.0.0",
+      "description": "GM Car A/C Service Revenue OS: A/C repair, general servicing, electrical diagnosis, WhatsApp sales, phone scripts, and workshop assets.",
+      "keywords": ["car-ac", "revenue", "leads", "sales", "ads", "seo"]
+    },
+    {
+      "name": "revenue-skills-marketplace",
+      "source": "./plugins/revenue-skills-marketplace",
+      "version": "1.0.0",
+      "description": "Starter revenue skills for offers, landing pages, cold emails, ad copy, objection handling, and content planning.",
+      "keywords": ["marketing", "sales", "cro", "outreach", "social"]
+    }
+  ]
+}

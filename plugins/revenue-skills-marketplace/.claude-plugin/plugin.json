@@ -1,0 +1,41 @@
+{
+  "name": "revenue-skills-marketplace",
+  "version": "0.1.0",
+  "description": "A marketplace-style bundle of revenue skills for offers, sales, ads, campaigns, social media, outreach, and landing pages.",
+  "author": {
+    "name": "GM Car AC Service"
+  },
+  "homepage": "https://gmcaracservice.com/",
+  "license": "MIT",
+  "keywords": [
+    "revenue",
+    "marketing",
+    "sales",
+    "offers",
+    "ads",
+    "landing-pages",
+    "cold-outreach"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Revenue Skills Marketplace",
+    "shortDescription": "Install playbooks for revenue growth.",
+    "longDescription": "A marketplace-style Codex plugin that packages revenue skills for offers, landing pages, cold outreach, sales calls, objection handling, ads, campaign planning, and social media handling. Built from gmcaracservice.com brand context and informed by public Acquisition.com topics such as offers, lead magnets, cold outreach, paid ads, referrals, content, guarantees, and urgency.",
+    "developerName": "GM Car AC Service",
+    "category": "Productivity",
+    "capabilities": [
+      "Write",
+      "Analyze",
+      "Plan"
+    ],
+    "websiteURL": "https://gmcaracservice.com/",
+    "defaultPrompt": [
+      "Use $revenue-offer-builder to improve my offer.",
+      "Use $marketing-campaign-agent to plan my campaign.",
+      "Use $social-media-handler to create posts."
+    ],
+    "brandColor": "#0D1F3C",
+    "composerIcon": "./assets/brand/logo-bgrem.png",
+    "logo": "./assets/brand/logo-bgrem.png"
+  }
+}

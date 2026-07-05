@@ -79,6 +79,32 @@ If you prefer to configure Claude Desktop manually, add the following to your `c
 
 ---
 
+## 🔌 Claude Code Native Plugin Marketplace
+
+This repository is structured as an official Claude Code plugin marketplace. You can register it and install all compiled skills, custom subagents, and assets in your Claude Code CLI.
+
+### Step 1: Add the Marketplace
+Run the following command in Claude Code to add this repository as a plugin source:
+```bash
+claude plugin marketplace add mjthedeveloper-07/gm-car-ac-service-plugins
+```
+
+### Step 2: Install the Plugins
+Once registered, install either or both plugins directly:
+```bash
+# Install the GM Car AC Revenue OS plugin (includes 13 Chennai-focused skills & subagents)
+claude plugin install gm-car-ac-revenue-os
+
+# Install the generic Revenue Skills Marketplace plugin (includes 9 generic growth skills & subagents)
+claude plugin install revenue-skills-marketplace
+```
+
+### What this loads:
+*   **Skills**: Run tools directly via namespaces (e.g., `/gm-car-ac-revenue-os:gm-local-seo-agent` or `/revenue-skills-marketplace:revenue-offer-builder`).
+*   **Custom Subagents**: Delegate to custom subagents (e.g., `@gm-car-ac-growth-orchestrator` or `@revenue-offer-builder`) by @-mentioning them or asking Claude to run them.
+
+---
+
 ## 📁 Repository Structure
 
 * `index.js` - Main MCP Server entry point and installer script.

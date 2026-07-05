@@ -1,0 +1,28 @@
+{
+  "name": "gmcaracservice-company-skills",
+  "version": "1.0.0",
+  "description": "Downloadable AI plugin and skill bundles for GM Car A/C Service, Ambattur, Chennai.",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "revenue-skills-mcp": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "mcp",
+    "claude",
+    "revenue",
+    "marketing",
+    "sales",
+    "offers",
+    "ads",
+    "landing-pages"
+  ],
+  "author": "mjthedeveloper-07",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.29.0"
+  }
+}

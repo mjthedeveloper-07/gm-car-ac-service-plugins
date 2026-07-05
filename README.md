@@ -11,7 +11,7 @@ You can download, configure, and install this plugin into your Claude Desktop ap
 Run the following command in your terminal:
 
 ```bash
-npx -y github:mjthedeveloper-07/gmcaracservice-company-skills --install
+npx -y github:mjthedeveloper-07/gm-car-ac-service-plugins --install
 ```
 
 ### What this does:
@@ -67,7 +67,7 @@ If you prefer to configure Claude Desktop manually, add the following to your `c
       "command": "npx",
       "args": [
         "-y",
-        "github:mjthedeveloper-07/gmcaracservice-company-skills"
+        "github:mjthedeveloper-07/gm-car-ac-service-plugins"
       ]
     }
   }

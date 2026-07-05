@@ -72,7 +72,7 @@ function installMcpServer() {
     command: 'npx',
     args: [
       '-y',
-      'github:mjthedeveloper-07/gmcaracservice-company-skills'
+      'github:mjthedeveloper-07/gm-car-ac-service-plugins'
     ]
   };
 

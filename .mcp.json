@@ -1,6 +1,6 @@
 {
   "mcpServers": {
-    "revenue-skills": {
+    "gmcaracservice-mcp": {
       "command": "npx",
       "args": [
         "-y",

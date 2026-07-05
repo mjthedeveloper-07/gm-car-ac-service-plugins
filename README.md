@@ -1,4 +1,4 @@
-# GM Car A/C Service & Revenue Skills MCP Server
+# gmcaracservice mcp Server
 
 A Model Context Protocol (MCP) server that packages 22 advanced revenue-generation and local-service operations skills for Claude. Built from the brand context of `gmcaracservice.com` (Chennai's trusted car AC and auto electrical specialist) and elite business growth frameworks.
 
@@ -17,7 +17,7 @@ npx -y github:mjthedeveloper-07/gm-car-ac-service-plugins --install
 ### What this does:
 1. Downloads the plugin and its dependencies.
 2. Locates your Claude Desktop configuration file (`claude_desktop_config.json`).
-3. Automatically inserts the `revenue-skills` configuration under the `mcpServers` block.
+3. Automatically inserts the `gmcaracservice-mcp` configuration under the `mcpServers` block.
 4. Tells Claude to run the MCP server on startup.
 
 *Note: Please restart your Claude Desktop application after running the command for the new tools and prompts to appear.*
@@ -63,7 +63,7 @@ If you prefer to configure Claude Desktop manually, add the following to your `c
 ```json
 {
   "mcpServers": {
-    "revenue-skills": {
+    "gmcaracservice-mcp": {
       "command": "npx",
       "args": [
         "-y",

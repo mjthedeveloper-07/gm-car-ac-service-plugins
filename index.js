@@ -85,7 +85,7 @@ function installMcpServer() {
   }
 
   // Add the server configuration
-  config.mcpServers['revenue-skills'] = {
+  config.mcpServers['gmcaracservice-mcp'] = {
     command: 'npx',
     args: [
       '-y',
@@ -100,14 +100,14 @@ function installMcpServer() {
 
   fs.writeFileSync(configPath, JSON.stringify(config, null, 2), 'utf-8');
   console.log('\n======================================================================');
-  console.log('Successfully installed Revenue Skills MCP server into Claude Desktop config!');
+  console.log('Successfully installed gmcaracservice-mcp into Claude Desktop config!');
   console.log('Please restart Claude Desktop for the changes to take effect.');
 
   // Write .mcp.json locally for Claude Code
   const localMcpPath = join(process.cwd(), '.mcp.json');
   const localMcpConfig = {
     mcpServers: {
-      'revenue-skills': {
+      'gmcaracservice-mcp': {
         command: 'npx',
         args: [
           '-y',
@@ -213,7 +213,7 @@ async function main() {
   // Initialize MCP Server
   const server = new Server(
     {
-      name: "revenue-skills-mcp",
+      name: "gmcaracservice-mcp",
       version: "1.0.0",
     },
     {
@@ -318,7 +318,7 @@ async function main() {
   // Start the server using Stdio transport
   const transport = new StdioServerTransport();
   await server.connect(transport);
-  console.error("Revenue Skills MCP Server running on stdio");
+  console.error("gmcaracservice mcp Server running on stdio");
 }
 
 main().catch((error) => {

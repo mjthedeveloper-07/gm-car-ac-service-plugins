@@ -1,5 +1,5 @@
 {
-  "name": "gm-car-ac-service-plugins",
+  "name": "gmcaracservice-mcp",
   "version": "1.0.0",
   "description": "Downloadable AI plugin and skill bundles for GM Car A/C Service, Ambattur, Chennai.",
   "main": "index.js",

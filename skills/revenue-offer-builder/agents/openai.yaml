@@ -1,0 +1,4 @@
+interface:
+  display_name: "Revenue Offer Builder"
+  short_description: "Build clearer, higher-converting offers"
+  default_prompt: "Use $revenue-offer-builder to improve this service offer for a specific audience."

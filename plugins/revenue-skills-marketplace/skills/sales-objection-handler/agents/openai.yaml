@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sales Objection Handler"
+  short_description: "Handle objections and close next steps"
+  default_prompt: "Use $sales-objection-handler to create objection responses for this sales call."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "GM Car AC Growth Orchestrator"
+  short_description: "Route GM revenue growth workflows"
+  default_prompt: "Use $gm-car-ac-growth-orchestrator to improve leads, sales, ads, landing pages, WhatsApp conversations, local SEO, fleet outreach, or training workshop enrollment for GM Car A/C Service."

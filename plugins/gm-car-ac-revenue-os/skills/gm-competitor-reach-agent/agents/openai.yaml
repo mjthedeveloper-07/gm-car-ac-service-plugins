@@ -1,0 +1,4 @@
+interface:
+  display_name: "GM Competitor Reach Agent"
+  short_description: "Analyze competitors and reach channels"
+  default_prompt: "Use $gm-competitor-reach-agent to analyze Ambattur competitors and recommend reach methods."

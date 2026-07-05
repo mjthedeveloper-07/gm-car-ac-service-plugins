@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ad Hook Generator"
+  short_description: "Generate paid-social hooks and variants"
+  default_prompt: "Use $ad-hook-generator to create ad hooks and creative variants for this offer."

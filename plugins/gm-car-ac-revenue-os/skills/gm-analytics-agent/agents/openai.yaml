@@ -1,0 +1,4 @@
+interface:
+  display_name: "GM Analytics Agent"
+  short_description: "Track revenue growth decisions"
+  default_prompt: "Use $gm-analytics-agent to build a tracking plan and weekly revenue report."

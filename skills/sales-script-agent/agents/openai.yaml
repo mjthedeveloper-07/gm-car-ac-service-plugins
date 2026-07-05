@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sales Script Agent"
+  short_description: "Build consultative sales scripts"
+  default_prompt: "Use $sales-script-agent to write a sales call script for this offer."

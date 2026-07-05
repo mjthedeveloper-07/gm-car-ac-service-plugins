@@ -1,0 +1,4 @@
+interface:
+  display_name: "GM Ad Creative Agent"
+  short_description: "Create paid and organic ad creative"
+  default_prompt: "Use $gm-ad-creative-agent to create ads for a GM Car A/C Service campaign."

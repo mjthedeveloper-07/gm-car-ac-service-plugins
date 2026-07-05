@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ads Generation Agent"
+  short_description: "Create full ad campaigns and variants"
+  default_prompt: "Use $ads-generation-agent to create ad copy, scripts, and tests for this campaign."

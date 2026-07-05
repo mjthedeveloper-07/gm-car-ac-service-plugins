@@ -1,0 +1,4 @@
+interface:
+  display_name: "Marketing Campaign Agent"
+  short_description: "Plan campaigns from offer to funnel"
+  default_prompt: "Use $marketing-campaign-agent to plan a campaign for this business goal."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "GM Retention Agent"
+  short_description: "Create retention and referral flows"
+  default_prompt: "Use $gm-retention-agent to create retention, review, care plan, and referral campaigns."

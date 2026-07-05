@@ -1,0 +1,4 @@
+interface:
+  display_name: "Social Media Handler"
+  short_description: "Plan and write social content calendars"
+  default_prompt: "Use $social-media-handler to create a social media plan and posts for this brand."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "GM Service Offer Builder"
+  short_description: "Build high-converting service offers"
+  default_prompt: "Use $gm-service-offer-builder to create a high-converting GM Car A/C Service offer."

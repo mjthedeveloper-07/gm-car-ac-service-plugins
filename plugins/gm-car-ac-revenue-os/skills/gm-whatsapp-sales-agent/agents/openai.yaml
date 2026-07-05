@@ -1,0 +1,4 @@
+interface:
+  display_name: "GM WhatsApp Sales Agent"
+  short_description: "Write WhatsApp sales flows"
+  default_prompt: "Use $gm-whatsapp-sales-agent to create a WhatsApp booking and follow-up flow."

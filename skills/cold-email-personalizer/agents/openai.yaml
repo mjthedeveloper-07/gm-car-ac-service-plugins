@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cold Email Personalizer"
+  short_description: "Create researched outreach sequences"
+  default_prompt: "Use $cold-email-personalizer to write a personalized cold outreach sequence for this ICP."

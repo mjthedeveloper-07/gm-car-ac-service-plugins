@@ -1,0 +1,4 @@
+interface:
+  display_name: "GM Social Media Agent"
+  short_description: "Create local social content plans"
+  default_prompt: "Use $gm-social-media-agent to create a GM Car A/C Service social content calendar."

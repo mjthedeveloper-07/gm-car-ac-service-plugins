@@ -1,0 +1,4 @@
+interface:
+  display_name: "GM Local SEO Agent"
+  short_description: "Create local SEO pages and posts"
+  default_prompt: "Use $gm-local-seo-agent to create local SEO content for GM Car A/C Service."

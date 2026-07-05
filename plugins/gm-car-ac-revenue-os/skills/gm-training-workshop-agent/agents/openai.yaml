@@ -1,0 +1,4 @@
+interface:
+  display_name: "GM Training Workshop Agent"
+  short_description: "Grow workshop enrollments"
+  default_prompt: "Use $gm-training-workshop-agent to grow enrollments for the 3-day GM workshop."

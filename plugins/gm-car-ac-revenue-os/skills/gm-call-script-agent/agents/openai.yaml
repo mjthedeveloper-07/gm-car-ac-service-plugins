@@ -1,0 +1,4 @@
+interface:
+  display_name: "GM Call Script Agent"
+  short_description: "Write service call scripts"
+  default_prompt: "Use $gm-call-script-agent to create a GM Car A/C Service phone script."

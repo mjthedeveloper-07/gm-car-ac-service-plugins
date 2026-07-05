@@ -1,0 +1,4 @@
+interface:
+  display_name: "Landing Page Rewriter"
+  short_description: "Rewrite pages for clearer conversion"
+  default_prompt: "Use $landing-page-rewriter to rewrite this landing page for more qualified leads."

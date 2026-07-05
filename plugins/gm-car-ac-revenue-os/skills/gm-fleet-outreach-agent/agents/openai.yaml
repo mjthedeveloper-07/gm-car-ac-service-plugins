@@ -1,0 +1,4 @@
+interface:
+  display_name: "GM Fleet Outreach Agent"
+  short_description: "Create B2B fleet outreach assets"
+  default_prompt: "Use $gm-fleet-outreach-agent to create fleet outreach for GM Car A/C Service."

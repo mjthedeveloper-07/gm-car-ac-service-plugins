@@ -1,0 +1,4 @@
+interface:
+  display_name: "GM Landing Page Agent"
+  short_description: "Improve landing page conversions"
+  default_prompt: "Use $gm-landing-page-conversion-agent to diagnose and rewrite a GM Car A/C Service landing page."

@@ -37,6 +37,23 @@ function parseFrontmatter(content) {
   return { frontmatter, body };
 }
 
+// Recursive directory copy helper
+function copyDirectoryRecursive(src, dest) {
+  if (!fs.existsSync(dest)) {
+    fs.mkdirSync(dest, { recursive: true });
+  }
+  const entries = fs.readdirSync(src, { withFileTypes: true });
+  for (const entry of entries) {
+    const srcPath = join(src, entry.name);
+    const destPath = join(dest, entry.name);
+    if (entry.isDirectory()) {
+      copyDirectoryRecursive(srcPath, destPath);
+    } else {
+      fs.copyFileSync(srcPath, destPath);
+    }
+  }
+}
+
 // Function to install the MCP server
 function installMcpServer() {
   const home = os.homedir();
@@ -102,6 +119,30 @@ function installMcpServer() {
   fs.writeFileSync(localMcpPath, JSON.stringify(localMcpConfig, null, 2), 'utf-8');
   console.log('\nSuccessfully created local .mcp.json for Claude Code!');
   console.log('Claude Code will automatically load these tools in this directory.');
+
+  // Copy skills and plugins to the global customizations root (~/.gemini/config) for local agents
+  const globalCustomizationsRoot = join(home, '.gemini', 'config');
+  if (fs.existsSync(globalCustomizationsRoot)) {
+    console.log(`\nDetected global customizations root at: ${globalCustomizationsRoot}`);
+    
+    // Copy skills
+    const sourceSkillsDir = join(__dirname, 'skills');
+    const destSkillsDir = join(globalCustomizationsRoot, 'skills');
+    if (fs.existsSync(sourceSkillsDir)) {
+      console.log(`Copying generic skills to ${destSkillsDir}...`);
+      copyDirectoryRecursive(sourceSkillsDir, destSkillsDir);
+    }
+    
+    // Copy plugins
+    const sourcePluginsDir = join(__dirname, 'plugins');
+    const destPluginsDir = join(globalCustomizationsRoot, 'plugins');
+    if (fs.existsSync(sourcePluginsDir)) {
+      console.log(`Copying marketplace plugins to ${destPluginsDir}...`);
+      copyDirectoryRecursive(sourcePluginsDir, destPluginsDir);
+    }
+    
+    console.log('\nSuccessfully installed all agents and skills into global agent customizations!');
+  }
   console.log('======================================================================\n');
 }
 

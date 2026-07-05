@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "revenue-skills": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "github:mjthedeveloper-07/gm-car-ac-service-plugins"
+      ]
+    }
+  }
+}

@@ -85,6 +85,23 @@ function installMcpServer() {
   console.log('\n======================================================================');
   console.log('Successfully installed Revenue Skills MCP server into Claude Desktop config!');
   console.log('Please restart Claude Desktop for the changes to take effect.');
+
+  // Write .mcp.json locally for Claude Code
+  const localMcpPath = join(process.cwd(), '.mcp.json');
+  const localMcpConfig = {
+    mcpServers: {
+      'revenue-skills': {
+        command: 'npx',
+        args: [
+          '-y',
+          'github:mjthedeveloper-07/gm-car-ac-service-plugins'
+        ]
+      }
+    }
+  };
+  fs.writeFileSync(localMcpPath, JSON.stringify(localMcpConfig, null, 2), 'utf-8');
+  console.log('\nSuccessfully created local .mcp.json for Claude Code!');
+  console.log('Claude Code will automatically load these tools in this directory.');
   console.log('======================================================================\n');
 }
 

@@ -60,6 +60,12 @@
 - Referrals and reviews
 - Repeat maintenance reminders
 
+## Live KPI & Data Sources
+
+- Primary operational data lives in the gm-billing Supabase app (invoices, b2b_fleet_leads, service_catalog, payroll, funnel_engine). Ask the user for current numbers (weekly calls, WhatsApp leads, form fills, close rate, average order value, revenue) before making KPI claims — do not invent figures.
+- Revenue target context: INR 10 crore is a 6-month system-wide stretch target (workshop + fleet + training + care plans + partner network), not a single-workshop retail projection. Baseline is roughly INR 4 lakh/month from the core workshop alone. Frame recommendations against this reality.
+- Empty tracking-sheet templates exist at `05-GROWTH-OPS-SOPS/GM-GROWTH-OS/tracking-system/templates/` (18 CSVs: leads, fleet pipeline, cash collections, competitor tracker, weekly scorecard, etc.) — populate these or pull live numbers from gm-billing before running gm-analytics-agent or gm-competitor-reach-agent.
+
 ## Offers
 
 - AC gas filling from INR 1,500 for single module, leak check included
@@ -183,3 +189,10 @@ For each competitor, capture name, distance from shop, Google rating, review cou
 - Job or income guarantees for training students
 - Fake scarcity, fake reviews, or invented certifications
 - Any brand image asset other than `assets/brand/logo-bgrem.png`
+
+## Brand Visual Identity
+
+- Colors: Navy `#173a61` (primary), Coral `#ef4c3d` (accent/CTA), Ink `#102033`, Blue `#245f92`, Green `#1fae5b`, Muted `#62748a`, Soft bg `#f3f6f8`, White `#ffffff`. Legacy dark-navy/`#2563eb` palette is deprecated, do not use.
+- Font: Manrope (primary), Inter (fallback).
+- Tagline/voice: "Car A/C service that keeps every drive cool." Lead with fixed transparent pricing, never vague ranges.
+- Full detail: `assets/brand-info.md` at plugin root.

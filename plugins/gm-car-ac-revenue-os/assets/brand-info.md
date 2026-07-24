@@ -34,15 +34,25 @@ Source: https://gmcaracservice.com/
 
 ## Brand Style
 
-- Dark navy: `#0d1f3c`
-- Deep navy: `#0a1628`
-- Blue: `#2563eb`
-- Service green: `#51be78`
-- WhatsApp green: `#25D366`
-- Gold: `#fbbf24`
-- Alert red: `#DC2626`
+Canonical palette (from live site `assets/css/gm-2026.css`, effective 2026-07 rebrand — supersedes the older dark-navy/blue set below):
+
+- Ink: `#102033`
+- Navy: `#173a61`
+- Blue: `#245f92`
+- Coral (primary accent/CTA): `#ef4c3d`
+- Coral dark: `#d83d30`
+- Green (success): `#1fae5b`
+- Text: `#18293d`
+- Muted: `#62748a`
+- Line: `#dce4ea`
+- Soft background: `#f3f6f8`
 - White: `#ffffff`
-- Typography guidance: Lexend, Source Sans 3, Space Mono
+- WhatsApp green (third-party brand color, keep as-is): `#25D366`
+- Typography: Manrope (primary), Inter (fallback)
+- Tagline: "Car A/C service that keeps every drive cool."
+
+Legacy palette, deprecated — do not use for new creative (still present in the site's older `style.css`, pending consolidation):
+- Dark navy `#0d1f3c`, deep navy `#0a1628`, blue `#2563eb`, service green `#51be78`, gold `#fbbf24`, alert red `#DC2626`; fonts Lexend/Source Sans 3/Space Mono.
 
 ## Allowed Brand Image Asset
 

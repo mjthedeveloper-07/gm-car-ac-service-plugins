@@ -50,9 +50,53 @@ Keep copy factual, local, and action-focused. Do not add unverified proof, revie
 
 ## Service Pillars
 
-- A/C services: car AC repair, AC gas filling, leak check, compressor diagnosis and repair, condenser replacement, cooling coil service, blower and relay checks, bus AC, commercial vehicle AC, and training.
-- General servicing: periodic general service, car oil change, brake pad cleaning, oil filter replacement, diesel filter replacement, air filter replacement, and maintenance checks.
-- Car electricals: battery testing, alternator diagnosis, wiring fault repair, fuse diagnosis, lighting issues, sensor-related checks, AC compressor relay repair, blower motor repair, and in-house troubleshooting for all car electrical services.
+GM sells four service categories. This is the definitive list — never invent a fifth, and never
+fold oil service back into general service.
+
+- Car A/C service: car AC repair, AC gas filling, leak check, compressor diagnosis and repair, condenser replacement, cooling coil service, evaporator, filter, blower and relay checks, bus AC, commercial vehicle AC.
+- Car general service: periodic general service, inspection, brake pad cleaning, air and diesel filter replacement, brake, suspension, clutch, coolant and fluid checks.
+- Car electrical service: battery testing, alternator diagnosis, starter, wiring fault repair, fuse diagnosis, lighting issues, sensor-related checks, AC compressor relay repair, blower motor repair, and in-house troubleshooting for all car electrical services.
+- Car oil service: engine oil and oil-filter replacement at the service interval, with the oil grade and work confirmed before the job begins.
+
+## Income Sources
+
+Every rupee GM earns comes from one of these. Canonical definitions live in the GM vault at
+`05-GROWTH-OPS-SOPS/GM-GROWTH-OS/REVENUE-DEFINITIONS-SOURCE-OF-TRUTH.md`.
+
+- The four service categories above, sold retail to walk-in customers. Revenue stream `retail`.
+- Fleet servicing: the same four categories for taxis, delivery fleets, school buses, vans, tourist coaches, used-car dealers and logistics operators, on contract with monthly statements. Revenue stream `fleet`.
+- Care plans and AMC subscriptions. Revenue stream `care_plan`.
+- Training: the ₹899 three-day starter workshop and the ₹52,999 flagship course. Revenue stream `training`.
+- Books — two separate product lines, both live. Revenue stream `digital`:
+  - GM Car A/C Service Manual, one title: ₹799 Premium Digital PDF, or ₹1,299 Premium Hardcover with free delivery.
+  - Five per-brand A/C e-books: ₹749 single brand, ₹1,499 single full book, ₹2,999 all-five bundle.
+- Parts and supply sales. Revenue stream `supply`.
+
+Book rules for all generated copy:
+
+- Quote ₹799 and ₹1,299 exactly as written. The GST treatment for books is still being decided by
+  the accountant, so never write "+GST", "inclusive of GST", or any tax-adjusted book price.
+- "Free delivery" is free to the buyer only. Never describe it as costless to GM.
+- Never blur the two book lines: a per-brand book is not the Service Manual. When counting sales,
+  the format field (ebook / hardcopy) describes the medium, not the product line — both lines have
+  e-books, so format alone never separates them.
+
+## The ₹199 Offer
+
+₹199 off, one per customer, with two ways to earn it:
+
+- Promo code — for customers GM has already serviced (the returning-customer offer).
+- Referral code — a new customer entering an existing customer's personal referral code.
+
+Hard rules for all generated copy:
+
+- Only the customer using the code gets the ₹199. The referrer receives no automatic credit —
+  never promise them a reward, cashback, discount, or free service.
+- One ₹199 per customer per code, and one promo per bill. Never stack two.
+- A customer cannot use their own referral code.
+- The ₹199 is a discount that reduces invoiced revenue. It is not a marketing expense.
+- Status: launching. The promo and referral tables are not live in the gm-billing app yet, so codes
+  are recorded manually at billing. Do not tell staff or customers to enter a code in the app.
 
 ## Core Services
 
@@ -98,11 +142,17 @@ Keep copy factual, local, and action-focused. Do not add unverified proof, revie
 - Referrals and reviews
 - Repeat maintenance reminders
 
+## Live KPI & Data Sources
+
+- Primary operational data lives in the gm-billing Supabase app (invoices, b2b_fleet_leads, service_catalog, payroll, funnel_engine). Ask the user for current numbers (weekly calls, WhatsApp leads, form fills, close rate, average order value, revenue) before making KPI claims — do not invent figures.
+- Revenue target context: INR 10 crore is a 6-month system-wide stretch target (workshop + fleet + training + care plans + partner network), not a single-workshop retail projection. Baseline is roughly INR 4 lakh/month from the core workshop alone. Frame recommendations against this reality.
+- Empty tracking-sheet templates exist at `05-GROWTH-OPS-SOPS/GM-GROWTH-OS/tracking-system/templates/` (18 CSVs: leads, fleet pipeline, cash collections, competitor tracker, weekly scorecard, etc.) — populate these or pull live numbers from gm-billing before running gm-analytics-agent or gm-competitor-reach-agent.
+
 ## Offers
 
 - AC gas filling from INR 1,500 for single module, leak check included
 - AC gas filling from INR 2,200 for double module, leak check included
-- 1-year AC care plan from INR 2,500 single module or INR 4,500 double module
+- 1-year care plan: Basic INR 2,999 (2 AC check-ups, priority booking, 10% parts discount) or Complete INR 4,999 (4 visits incl. general service, 15% parts, 1 free top-up)
 - General car service add-ons: car oil change, brake pad cleaning, oil filter, diesel filter, and air filter replacement
 - Full car electrical services and diagnostics
 - Free AC diagnosis, estimate, or callback when appropriate

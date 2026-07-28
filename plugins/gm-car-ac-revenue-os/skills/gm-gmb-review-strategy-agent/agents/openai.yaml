@@ -1,0 +1,4 @@
+interface:
+  display_name: "GM GMB Review Strategy Agent"
+  short_description: "Track reviews, generate response templates, and accelerate review growth"
+  default_prompt: "Use $gm-gmb-review-strategy-agent to analyze GM Car A/C Service's Google Business Profile reviews. Provide canned response templates, track review velocity, and recommend actions to reach more reviews."

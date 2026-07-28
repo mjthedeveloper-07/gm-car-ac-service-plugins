@@ -1,0 +1,4 @@
+interface:
+  display_name: "GM Speed To Lead Agent"
+  short_description: "Own lead-response speed SOPs"
+  default_prompt: "Use $gm-speed-to-lead-agent to build fast lead-response SOPs, missed-call recovery, and speed-to-lead reports."

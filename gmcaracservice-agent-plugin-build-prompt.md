@@ -35,7 +35,7 @@ Proof and trust signals:
 Offers to encode:
 - AC gas filling from INR 1,500 for single module, leak check included.
 - AC gas filling from INR 2,200 for double module, leak check included.
-- 1-year AC care plan from INR 2,500 single module or INR 4,500 double module.
+- 1-year care plan: Basic INR 2,999 (2 AC check-ups, priority booking, 10% parts discount) or Complete INR 4,999 (4 visits incl. general service, 15% parts, 1 free top-up).
 - General car service add-ons: car oil change, brake pad cleaning, oil filter replacement, diesel filter replacement, and air filter replacement.
 - Full car electrical services: battery testing, alternator diagnosis, wiring fault repair, AC compressor relay repair, blower motor repair, fuse diagnosis, lighting issues, sensor-related electrical checks, and in-house auto electrical troubleshooting.
 - Free AC diagnosis / estimate / callback angle where appropriate.

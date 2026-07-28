@@ -1,0 +1,4 @@
+interface:
+  display_name: "GM AEO Optimization Agent"
+  short_description: "Audit site's AI-crawler readiness and optimize for LLM discoverability"
+  default_prompt: "Use $gm-aeo-optimization-agent to audit gmcaracservice.com's AI Engine Optimization (AEO). Analyze robots.txt, llms.txt, JSON-LD schema, and per-page readability. Generate recommendations to improve LLM crawler access."

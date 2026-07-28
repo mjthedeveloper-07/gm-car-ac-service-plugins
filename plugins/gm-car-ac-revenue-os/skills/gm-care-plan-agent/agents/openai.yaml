@@ -1,0 +1,4 @@
+interface:
+  display_name: "GM Care Plan Agent"
+  short_description: "Sell and renew GM care plans"
+  default_prompt: "Use $gm-care-plan-agent to create care plan attach scripts, renewal campaigns, and attach-rate reports."

@@ -32,6 +32,31 @@ Source: https://gmcaracservice.com/
 - Free pickup and drop across Chennai
 - Transparent pricing and no hidden charges
 
+## Income Sources & Offers
+
+Four service categories — the definitive list. Never invent a fifth.
+
+1. **Car AC Service** — gas filling ₹1,500 single module / ₹2,200 double module (fixed, published, leak check included); compressor, condenser, cooling coil, evaporator, leak, filter, blower — diagnosis first, estimate before approval
+2. **Car General Service** — periodic maintenance, inspection, brake, suspension, clutch, coolant and fluid checks — call for quote
+3. **Car Electrical Service** — battery, alternator, starter, wiring, fuses, relays, sensors, blower diagnosis — call for quote
+4. **Car Oil Service** — engine oil and oil-filter replacement at the service interval, oil grade confirmed before the job — call for quote
+
+- **Fleet servicing** — the same four categories for taxis, delivery fleets, school buses, vans, coaches, dealers and logistics operators, under contract with monthly statements
+- **Book — GM Car A/C Service Manual:** ₹799 Premium Digital PDF (e-book) · ₹1,299 Premium Hardcover with free delivery. Single title, sold via `shop-ac-books.html`
+- **Book — per-brand A/C e-books** (5 titles): ₹749 single brand · ₹1,499 single full book · ₹2,999 all-five bundle
+- **Training** — ₹899 3-day starter workshop; ₹52,999 flagship course
+- **Care plans / doorstep pickup and drop** — subscription and convenience add-ons
+
+### The ₹199 offer (use exactly this wording logic)
+
+₹199 off, one per customer, two ways to get it:
+
+- **Promo code** — for customers GM has already serviced (returning-customer offer)
+- **Referral code** — a new customer enters an existing customer's personal referral code
+
+Only the new/returning customer gets the ₹199. The referrer gets no automatic credit — do not
+promise them one. Never stack two ₹199 discounts on one bill.
+
 ## Brand Style
 
 Canonical palette (from live site `assets/css/gm-2026.css`, effective 2026-07 rebrand — supersedes the older dark-navy/blue set below):

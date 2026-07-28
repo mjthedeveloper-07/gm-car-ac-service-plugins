@@ -2,13 +2,18 @@
 
 ## Scope
 
-This analysis positions GM Car A/C Service as a car servicing garage with three main pillars:
+This analysis positions GM Car A/C Service as a car servicing garage with four service categories:
 
-- A/C services
-- General servicing
-- Car electricals
+- Car A/C service
+- Car general service
+- Car electrical service
+- Car oil service
 
-The operating target is INR 10 crore annual revenue through service bookings, higher average order value, care plans, fleet contracts, electrical repair jobs, training enrollments, referrals, and retention.
+Alongside these, GM earns from fleet servicing contracts, care plans, training, book sales
+(the GM Car A/C Service Manual at INR 799 digital / INR 1,299 hardcover, and the five per-brand
+A/C e-books), and parts/supply sales.
+
+The operating target is INR 10 crore annual revenue through service bookings, higher average order value, care plans, fleet contracts, electrical repair jobs, training enrollments, book sales, the INR 199 returning-customer and referral offer, and retention.
 
 ## Verified Local Context
 

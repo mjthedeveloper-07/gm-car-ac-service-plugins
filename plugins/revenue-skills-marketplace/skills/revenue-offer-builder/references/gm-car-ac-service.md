@@ -13,7 +13,7 @@ Use this when adapting revenue work to gmcaracservice.com.
 - Primary CTA: call or WhatsApp +91 8428000085
 - Convenience: free pickup and drop across Chennai
 - Entry offer: AC gas filling from INR 1,500 single module, INR 2,200 double module, includes leak check
-- Subscription-style offer: 1-year AC care plan, INR 2,500 single module or INR 4,500 double module, paid at first gas refilling
+- Subscription-style offer: 1-year care plan, Basic INR 2,999 (2 AC check-ups, priority, 10% parts) or Complete INR 4,999 (4 visits, 15% parts, 1 free top-up), paid at first gas refilling
 - Training offer: 3-day hands-on car AC service workshop for INR 899, 4 to 6 seats per batch
 
 ## Current Positioning

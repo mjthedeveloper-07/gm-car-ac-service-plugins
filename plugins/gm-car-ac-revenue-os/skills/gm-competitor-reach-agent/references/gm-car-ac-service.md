@@ -7,7 +7,7 @@
 - Founder and lead technician: Manigandan G
 - Positioning: Chennai's trusted diagnostic-first car AC and auto electrical specialist
 - Revenue target: INR 10 crore annual revenue
-- Primary conversion actions: call, WhatsApp, appointment booking, free callback, free estimate, training enrollment
+- Primary conversion actions: call, WhatsApp, appointment booking, free callback, free 30-point checkup, training enrollment
 - Instagram handle: `@gmcaracservice`
 
 ## Service Pillars
@@ -28,7 +28,7 @@ Every rupee GM earns comes from one of these. Canonical definitions live in the 
 - The four service categories above, sold retail to walk-in customers. Revenue stream `retail`.
 - Fleet servicing: the same four categories for taxis, delivery fleets, school buses, vans, tourist coaches, used-car dealers and logistics operators, on contract with monthly statements. Revenue stream `fleet`.
 - Care plans and AMC subscriptions. Revenue stream `care_plan`.
-- Training: the ₹899 three-day starter workshop and the ₹52,999 flagship course. Revenue stream `training`.
+- Training: the ₹52,999 three-day starter workshop and the ₹52,999 flagship course. Revenue stream `training`.
 - Books — two separate product lines, both live. Revenue stream `digital`:
   - GM Car A/C Service Manual, one title: ₹799 Premium Digital PDF, or ₹1,299 Premium Hardcover with free delivery.
   - Five per-brand A/C e-books: ₹749 single brand, ₹1,499 single full book, ₹2,999 all-five bundle.
@@ -114,28 +114,25 @@ Hard rules for all generated copy:
 
 - AC gas filling from INR 1,500 for single module, leak check included
 - AC gas filling from INR 2,200 for double module, leak check included
-- 1-year care plan: Basic INR 2,999 (2 AC check-ups, priority booking, 10% parts discount) or Complete INR 4,999 (4 visits incl. general service, 15% parts, 1 free top-up)
+- 1-year care plan: Essential INR 2,999 (2 visits) or Complete INR 6,499 petrol / INR 7,699 diesel (4 visits incl. general service, 10% parts) or Master INR 9,999 (4 visits, pick-up and drop, 15% parts)
 - General car service add-ons: car oil change, brake pad cleaning, oil filter, diesel filter, and air filter replacement
 - Full car electrical services and diagnostics
 - Free AC diagnosis, estimate, or callback when appropriate
-- Free pickup and drop across Chennai
-- 3-day hands-on starter workshop for INR 899
+- Pickup and drop available on request for qualifying bookings (not free; spends technician hours)
+- 27-day hands-on technician course for INR 52,999
 - Fleet Cooling Care for taxis, vans, delivery fleets, buses, and commercial vehicles
 
 ## Proof
 
-- 7+ years experience
-- 6,000+ vehicles served
-- 4.9 Google rating
-- 500+ Google reviews
-- Same-day service for common AC repairs
+- Independent multi-brand workshop, founded 2019
+- Google reviews are public and the customer can read them; never state a rating or a review count
 - Transparent pricing and no hidden charges
-- Genuine parts, approved refrigerants, warranty on major repairs
+- Free 30-point A/C and electrical checkup, written report, no purchase required
 
 ## Contacts
 
-- Phone and WhatsApp: +91 8428000085
-- Secondary phone: +91 8889360888
+- Retail (individual car owners): +91 8428000085 — call and WhatsApp
+- Fleet / B2B: +91 8889360888 — call and WhatsApp (use for fleet/taxi/delivery/dealer content)
 - Email: gmautocool@gmail.com
 - Website: https://gmcaracservice.com/
 - YouTube: https://www.youtube.com/@gmcaracservice
@@ -193,12 +190,12 @@ For each competitor, capture name, distance from shop, Google rating, review cou
 
 ## Recommended CTAs
 
-- Call +91 8428000085
-- WhatsApp +91 8428000085
-- Book free estimate
-- Schedule free pickup
-- Request callback in 30 minutes
-- Enroll in the 3-day INR 899 workshop
+- Call +91 8428000085 (retail) — use +91 8889360888 for fleet/B2B campaigns
+- WhatsApp +91 8428000085 (retail) — use +91 8889360888 for fleet/B2B campaigns
+- Book free 30-point diagnostic checkup
+- Request pickup and drop (subject to availability)
+- Request a callback
+- Enroll in the 27-day INR 52,999 technician course
 - Book fleet inspection
 
 ## Local SEO Areas
@@ -217,11 +214,9 @@ For each competitor, capture name, distance from shop, Google rating, review cou
 ## Allowed Claims
 
 - Diagnostic-first car AC and auto electrical specialist
-- 7+ years experience
-- 6,000+ vehicles served
-- 4.9 Google rating and 500+ reviews
-- Free pickup and drop across Chennai
-- Same-day service for common AC repairs
+- Independent multi-brand workshop, founded 2019
+- Google reviews are public and the customer can read them; never state a rating or a review count
+- Pickup and drop available on request for qualifying bookings (not free; spends technician hours)
 - Leak check included with listed AC gas filling offers
 - Transparent pricing and no hidden charges
 
@@ -229,14 +224,11 @@ For each competitor, capture name, distance from shop, Google rating, review cou
 
 - Guaranteed repair for every issue
 - Fixed compressor or electrical repair price before inspection
-- All repairs completed same day
+- Every job diagnosed first, then quoted; work starts only on your approval
 - Job or income guarantees for training students
 - Fake scarcity, fake reviews, or invented certifications
 - Any brand image asset other than `assets/brand/logo-bgrem.png`
 
 ## Brand Visual Identity
 
-- Colors: Navy `#173a61` (primary), Coral `#ef4c3d` (accent/CTA), Ink `#102033`, Blue `#245f92`, Green `#1fae5b`, Muted `#62748a`, Soft bg `#f3f6f8`, White `#ffffff`. Legacy dark-navy/`#2563eb` palette is deprecated, do not use.
-- Font: Manrope (primary), Inter (fallback).
-- Tagline/voice: "Car A/C service that keeps every drive cool." Lead with fixed transparent pricing, never vague ranges.
-- Full detail: `assets/brand-info.md` at plugin root.
+- Full brand colors, typography, and tagline: `assets/brand-info.md` at plugin root. Do not restate them inline — restating is how they drift.

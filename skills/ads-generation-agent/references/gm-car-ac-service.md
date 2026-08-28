@@ -5,7 +5,7 @@
 - Brand: GM Car A/C Service
 - Location: Ambattur, Chennai
 - CTA: call or WhatsApp +91 8428000085
-- Proof: 7+ years experience, 6,000+ vehicles served, 4.9 Google rating, 500+ reviews
+- Proof: independent multibrand workshop, founded 2019, founder-led. Never state a rating, a review count or a vehicle count — invite the customer to read the Google reviews
 - Convenience: free pickup and drop across Chennai
 
 ## Services
@@ -24,7 +24,7 @@
 
 - AC not cooling in Chennai heat
 - Gas filling with leak check
-- Same-day diagnosis for common issues
+- Diagnosis on a booked slot
 - Pickup/drop for busy owners
 - Oil change and filters in one visit
 - Electrical fault diagnosis in-house

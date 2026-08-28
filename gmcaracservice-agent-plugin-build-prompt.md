@@ -20,27 +20,24 @@ Core positioning:
 - Location: Ambattur, Chennai.
 - Founder and lead technician: Manigandan G.
 - Strong buying triggers: Chennai heat, AC not cooling, compressor faults, repeat gas filling, bad smell, electrical issues, fleet downtime, dealer overpricing.
-- Primary conversion actions: call, WhatsApp, appointment booking, free callback, free estimate, training enrollment.
+- Primary conversion actions: call, WhatsApp, appointment booking, free callback, free 30-point checkup, training enrollment.
 
 Proof and trust signals:
 - 7+ years experience.
-- 6,000+ vehicles served.
-- 4.9 Google rating.
-- 500+ Google reviews.
-- Same-day service for common AC repairs.
+- Work booked into the next available slot.
 - Free pickup and drop across Chennai.
 - Transparent pricing and no hidden charges.
-- Genuine parts, approved refrigerants, warranty on major repairs.
+- Approved refrigerants (R134a and R1234yf).
 
 Offers to encode:
 - AC gas filling from INR 1,500 for single module, leak check included.
 - AC gas filling from INR 2,200 for double module, leak check included.
-- 1-year care plan: Basic INR 2,999 (2 AC check-ups, priority booking, 10% parts discount) or Complete INR 4,999 (4 visits incl. general service, 15% parts, 1 free top-up).
+- 1-year care plan: Essential INR 2,999 (2 visits) or Complete INR 6,499 petrol / INR 7,699 diesel (4 visits incl. general service, 10% parts) or Master INR 9,999 (4 visits, pick-up and drop, 15% parts).
 - General car service add-ons: car oil change, brake pad cleaning, oil filter replacement, diesel filter replacement, and air filter replacement.
 - Full car electrical services: battery testing, alternator diagnosis, wiring fault repair, AC compressor relay repair, blower motor repair, fuse diagnosis, lighting issues, sensor-related electrical checks, and in-house auto electrical troubleshooting.
-- Free AC diagnosis / estimate / callback angle where appropriate.
+- Free 30-point A/C and electrical checkup (30 points, written report, ~15 min) as the lead magnet. Never say "free diagnosis" or "free estimate" — both are banned claims. The free 30-point A/C and electrical checkup IS approved and is the lead magnet.
 - Free pickup and drop across Chennai.
-- 3-day hands-on starter workshop for INR 899.
+- 27-day hands-on technician course for INR 52,999.
 - Fleet Cooling Care for taxis, vans, delivery fleets, buses, and commercial vehicles.
 
 Primary contacts:
@@ -286,7 +283,7 @@ Outputs:
 
 ### 8. `gm-training-workshop-agent`
 
-Build growth assets for the 3-day INR 899 hands-on starter workshop.
+Build growth assets for the 27-day INR 52,999 hands-on technician course.
 
 Outputs:
 - Workshop offer.

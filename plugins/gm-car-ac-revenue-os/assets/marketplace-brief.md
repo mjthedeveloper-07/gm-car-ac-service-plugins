@@ -2,7 +2,7 @@
 
 ## Positioning
 
-GM Car AC Revenue OS is a free-first AI revenue operating system for GM Car A/C Service. It helps the owner and team generate leads, improve conversion, create ad campaigns, handle WhatsApp and phone sales, improve landing pages, organize local SEO content, support fleet outreach, drive retention, and grow the 3-day INR 899 training workshop.
+GM Car AC Revenue OS is a free-first AI revenue operating system for GM Car A/C Service. It helps the owner and team generate leads, improve conversion, create ad campaigns, handle WhatsApp and phone sales, improve landing pages, organize local SEO content, support fleet outreach, drive retention, and grow the 27-day INR 52,999 technician course.
 
 ## Revenue Target
 

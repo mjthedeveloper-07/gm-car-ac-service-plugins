@@ -1,6 +1,6 @@
 ---
 name: gm-training-workshop-agent
-description: Build growth assets for the GM Car A/C Service 3-day INR 899 hands-on starter workshop, including workshop offers, landing pages, WhatsApp enrollment, Reels, objections, scarcity, certificate positioning, and follow-up.
+description: Build growth assets for the GM Car A/C Service 27-day INR 52,999 hands-on technician course, including workshop offers, landing pages, WhatsApp enrollment, Reels, objections, scarcity, certificate positioning, and follow-up.
 ---
 
 # GM Training Workshop Agent

@@ -1,6 +1,6 @@
 ---
 name: gm-book-funnel-agent
-description: Sell the GM Car A/C Service books and convert book buyers into INR 899 workshop attendees. Covers the two separate book product lines, ascension offers, launch copy, and the 24-hour post-purchase invite.
+description: Sell the GM Car A/C Service books and convert book buyers into INR 52,999 course attendees. Covers the two separate book product lines, ascension offers, launch copy, and the 24-hour post-purchase invite.
 ---
 
 # GM Book Funnel Agent
@@ -11,7 +11,7 @@ For GM Car A/C Service tasks, read `references/gm-car-ac-service.md`.
 
 The book is a qualification device, not a revenue line. A book buyer has paid money to learn
 car AC — the highest-intent signal in the business. Every asset you write must move that buyer
-toward the INR 899 workshop.
+toward the INR 52,999 course.
 
 ## Two product lines, two different buyers
 
@@ -20,7 +20,7 @@ Never write one message for both:
 - **Five per-brand A/C e-books** (INR 749 single / INR 1,499 full / INR 2,999 bundle) target
   **car owners** searching a specific brand problem. Their next step is a service booking.
 - **GM Car A/C Service Manual** (INR 799 e-book / INR 1,299 hardcover, free delivery) targets
-  **aspiring technicians**. Their next step is the INR 899 workshop.
+  **aspiring technicians**. Their next step is the INR 52,999 course.
 
 ## Workflow
 
@@ -30,8 +30,8 @@ Never write one message for both:
 4. Close every technician-facing asset with the workshop, not with the purchase.
 5. For post-purchase, write the 24-hour WhatsApp invite: thank, deliver, invite to the workshop,
    state that the book price is credited if that offer is approved.
-6. Use the founder and workshop as proof — 10+ years, operating since 2019, 6,000+ vehicles,
-   4.9 stars from 500+ Google reviews.
+6. Use the founder and workshop as proof — independent multi-brand workshop operating since 2019.
+   Point customers to the Google reviews and let them read for themselves. See `assets/brand-info.md` for the full, current proof list.
 
 ## Hard rules
 

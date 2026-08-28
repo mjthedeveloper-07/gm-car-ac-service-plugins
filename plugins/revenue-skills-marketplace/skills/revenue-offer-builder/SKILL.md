@@ -36,7 +36,7 @@ Use this sequence:
 4. Mechanism: why this approach works better than the default alternative.
 5. Value stack: core service plus bonuses, convenience, support, or tools.
 6. Proof: reviews, customer count, before-after evidence, founder authority, demos, guarantees.
-7. Risk reversal: warranty, diagnostic-first promise, clear pricing, no hidden fees, trial, cancellation, or guarantee.
+7. Risk reversal: diagnostic-first promise, clear pricing, no hidden fees, trial, cancellation, or guarantee.
 8. Urgency: real constraint such as limited slots, seasonal demand, batch size, launch date, or capacity.
 9. CTA: one direct action with a low-friction next step.
 

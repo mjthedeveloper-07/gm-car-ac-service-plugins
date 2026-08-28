@@ -48,7 +48,7 @@ Once installed, Claude will have access to the following dynamic tools. You can 
 * `gm_call_script_agent` - Standardize phone scripts for incoming calls and workshop enrollments.
 * `gm_local_seo_agent` - Optimize content for Chennai local areas (Ambattur, Avadi, Anna Nagar, etc.).
 * `gm_fleet_outreach_agent` - Create B2B fleet cooling contract outreach.
-* `gm_training_workshop_agent` - Grow the 3-day INR 899 hands-on starter training workshop.
+* `gm_training_workshop_agent` - Grow the 27-day INR 52,999 hands-on technician course.
 * `gm_social_media_agent` - Schedule 30-day Instagram Reels, YouTube Shorts, and GBP posts.
 * `gm_retention_agent` - Send post-service review requests and care plan upsells.
 * `gm_analytics_agent` - Setup tracking sheets and weekly reporting conventions.

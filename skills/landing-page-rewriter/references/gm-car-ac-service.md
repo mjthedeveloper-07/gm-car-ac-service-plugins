@@ -8,12 +8,12 @@ Use this when adapting landing page work to gmcaracservice.com.
 - Location: Ambattur, Chennai
 - Core service: car AC repair, AC gas filling, compressor repair, condenser replacement, cooling coil service, auto electrical service
 - Founder: Manigandan G, founder and lead technician
-- Proof: 7+ years experience, 6,000+ vehicles served, 4.9 Google rating, 500+ reviews
+- Proof: independent multibrand workshop, founded 2019, founder-led. Never state a rating, a review count or a vehicle count — invite the customer to read the Google reviews
 - Operating hours: Monday to Saturday, 10 AM to 8 PM
 - Primary CTA: call or WhatsApp +91 8428000085
 - Convenience: free pickup and drop across Chennai
 - Entry offer: AC gas filling from INR 1,500 single module, INR 2,200 double module, includes leak check
-- Training offer: 3-day hands-on car AC service workshop for INR 899, 4 to 6 seats per batch
+- Training offer: 27-day hands-on car AC technician course for INR 52,999, 15 to 20 seats per batch
 
 ## Page Strengths
 
@@ -35,8 +35,8 @@ Use this when adapting landing page work to gmcaracservice.com.
 
 ## Priority Messages
 
-- "AC not cooling? Get a free diagnosis before you spend on gas."
-- "Same-day car AC repair in Ambattur with free pickup and drop across Chennai."
+- "AC not cooling? Get a free 30-point checkup before you spend on gas."
+- "Car AC repair in Ambattur with free pickup and drop across Chennai."
 - "AC gas filling from INR 1,500 with leak check included."
 - "Trusted by 6,000+ Chennai drivers, rated 4.9 on Google."
 - "Dealer-quality diagnostics without dealer pricing."

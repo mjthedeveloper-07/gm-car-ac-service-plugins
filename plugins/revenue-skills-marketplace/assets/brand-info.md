@@ -13,9 +13,9 @@ Source: https://gmcaracservice.com/
 
 ## Contact
 
-- Primary phone: +91 8428000085
-- Secondary phone: +91 8889360888
-- WhatsApp: https://wa.me/918428000085
+- **Calls: +91 8428000085** — Google Business Profile, all website `tel:` links, all print
+- **WhatsApp only: +91 8889360888** — `https://wa.me/918889360888`. Never used as a call-to number
+- These two are not interchangeable. `wa.me/918428000085` is wrong: that is the call number, not a WhatsApp account
 - Email: gmautocool@gmail.com
 - Website: https://gmcaracservice.com/
 - YouTube: https://www.youtube.com/@gmcaracservice
@@ -25,12 +25,17 @@ Source: https://gmcaracservice.com/
 
 ## Brand Proof
 
-- 7+ years experience
-- 6,000+ vehicles served
-- 4.9 Google rating
-- 500+ Google reviews
-- Same-day service for common car AC repairs
-- Free pickup and drop across Chennai
+Verified 2026-07-29 against the live Google Business Profile.
+
+- Google reviews are public and the customer can read them; never state a rating or a review count
+- Owner replies to ~90% of reviews
+- Independent multi-brand workshop, founded 2019
+- Free 30-point A/C and electrical checkup, written report, no purchase required
+- Published fixed pricing
+
+### Never claim these
+
+"4.9 rating" (Google shows 4.8) · "500+ reviews" (~50; overstates ~10x) · "6,000+ vehicles served" (unevidenced) · "7+ years experience" (unevidenced) · "Free pickup and drop across Chennai" (not funded; pickup spends technician hours, the binding constraint) · "Same-day service" (not guaranteed against a 4-6 car/day ceiling) · "best/cheapest/#1 in Chennai" (unsubstantiated)
 
 ## Core Offers
 
@@ -38,7 +43,7 @@ Source: https://gmcaracservice.com/
 - AC gas filling from INR 2,200 for double module
 - Leak check included with gas filling
 - 1-year AC care plan from INR 2,500
-- 3-day hands-on starter workshop for INR 899
+- 27-day hands-on technician course for INR 52,999
 
 ## Brand Colors From Site CSS
 

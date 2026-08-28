@@ -13,8 +13,12 @@ Source: https://gmcaracservice.com/
 
 ## Contacts
 
-- Phone and WhatsApp: +91 8428000085
-- Secondary phone: +91 8889360888
+Two desks, split by AUDIENCE (per `contacts.js`, the running source of truth), not by channel:
+
+- **Retail (individual car owners): +91 8428000085** — call AND WhatsApp. `https://wa.me/918428000085`. Use for every consumer-facing CTA.
+- **Fleet / B2B: +91 8889360888** — call AND WhatsApp. `https://wa.me/918889360888`. Use for every fleet/B2B-facing CTA (e.g. fleet outreach content).
+
+Do not treat either number as call-only or WhatsApp-only — both desks take calls and WhatsApp. The error to avoid is using the wrong AUDIENCE's number, not the wrong channel.
 - Email: gmautocool@gmail.com
 - Website: https://gmcaracservice.com/
 - YouTube: https://www.youtube.com/@gmcaracservice
@@ -24,28 +28,45 @@ Source: https://gmcaracservice.com/
 
 ## Brand Proof
 
-- 7+ years experience
-- 6,000+ vehicles served
-- 4.9 Google rating
-- 500+ Google reviews
-- Same-day service for common AC repairs
-- Free pickup and drop across Chennai
+Verified 2026-07-29 against the live Google Business Profile. Use only what is listed here.
+
+- Google reviews are public and the customer can read them; never state a rating or a review count
+- Owner replies to ~90% of reviews
+- Independent multi-brand workshop, founded 2019
+- Free 30-point A/C and electrical checkup, written report, no purchase required
+- Published fixed pricing — see Income Sources below
 - Transparent pricing and no hidden charges
+
+### Never claim these
+
+| Banned claim | Why |
+|---|---|
+| "4.9 rating" | Google shows 4.8 |
+| "500+ reviews" | Google shows ~50. Overstates by ~10× |
+| "6,000+ vehicles served" | Unevidenced; implies ~2.85 cars/day since 2019 against actual 1.75 |
+| "7+ years experience" | Unevidenced as written |
+| "Free pickup and drop across Chennai" | Not funded. Pickup consumes technician hours, the binding constraint on the whole business. Do not offer it as a differentiator, a bonus, or a closing incentive |
+| "Same-day service" | Not guaranteed against a 4–6 car/day ceiling |
+| "Best / cheapest / #1 in Chennai" | Unsubstantiated superlative |
+
+Re-verify this block against the live profile before any paid campaign.
 
 ## Income Sources & Offers
 
 Four service categories — the definitive list. Never invent a fifth.
 
 1. **Car AC Service** — gas filling ₹1,500 single module / ₹2,200 double module (fixed, published, leak check included); compressor, condenser, cooling coil, evaporator, leak, filter, blower — diagnosis first, estimate before approval
-2. **Car General Service** — periodic maintenance, inspection, brake, suspension, clutch, coolant and fluid checks — call for quote
+2. **Car General Service** — periodic maintenance, inspection, brake, suspension, clutch, coolant and fluid checks. **Published: ₹4,499 petrol / ₹5,699 diesel. Essential Service from ₹2,499.** Mandatory disclaimer wherever these prices appear: *"Price varies with the quantity and brand of oil your car needs."*
 3. **Car Electrical Service** — battery, alternator, starter, wiring, fuses, relays, sensors, blower diagnosis — call for quote
 4. **Car Oil Service** — engine oil and oil-filter replacement at the service interval, oil grade confirmed before the job — call for quote
 
 - **Fleet servicing** — the same four categories for taxis, delivery fleets, school buses, vans, coaches, dealers and logistics operators, under contract with monthly statements
 - **Book — GM Car A/C Service Manual:** ₹799 Premium Digital PDF (e-book) · ₹1,299 Premium Hardcover with free delivery. Single title, sold via `shop-ac-books.html`
 - **Book — per-brand A/C e-books** (5 titles): ₹749 single brand · ₹1,499 single full book · ₹2,999 all-five bundle
-- **Training** — ₹899 3-day starter workshop; ₹52,999 flagship course
-- **Care plans / doorstep pickup and drop** — subscription and convenience add-ons
+- **Training** — ₹52,999 3-day starter workshop; ₹52,999 flagship course
+- **Care plans** — GM Cool Care ₹2,999 / ₹6,499 petrol / ₹7,699 diesel / ₹9,999 per year
+- **Free 30-point A/C & electrical checkup — ₹0.** Standalone, no purchase required, no obligation to repair. Written report, ~15 min. This is the lead magnet; lead with it
+- **Pickup and drop** — available on request for qualifying bookings only. **Never described as free or as a standing offer.** It spends technician hours, which is the constraint on the business
 
 ### The ₹199 offer (use exactly this wording logic)
 
@@ -74,7 +95,15 @@ Canonical palette (from live site `assets/css/gm-2026.css`, effective 2026-07 re
 - White: `#ffffff`
 - WhatsApp green (third-party brand color, keep as-is): `#25D366`
 - Typography: Manrope (primary), Inter (fallback)
-- Tagline: "Car A/C service that keeps every drive cool."
+- Tagline: **"We diagnose before we replace."**
+  Secondary lines by service: *"Every warning light deserves a clear answer."* (electrical) · *"Routine care that protects every drive."* (general service).
+  Retired: "Car A/C service that keeps every drive cool." — generic; any workshop could claim it.
+
+## Positioning rules
+
+- Lead with the method, not the outcome. The differentiator is that the customer is **shown the fault before approving the part**, backed by the free 30-point checkup and a written estimate.
+- **Never name competitors** (GoMechanic, Pitcrew or any other) and never quote their ratings. Make the positive claim on its own merits.
+- Do not generate demand the workshop cannot serve. Ceiling is 4–6 cars/day against ~1.75 currently billed; technician headcount is the binding constraint, not marketing.
 
 Legacy palette, deprecated — do not use for new creative (still present in the site's older `style.css`, pending consolidation):
 - Dark navy `#0d1f3c`, deep navy `#0a1628`, blue `#2563eb`, service green `#51be78`, gold `#fbbf24`, alert red `#DC2626`; fonts Lexend/Source Sans 3/Space Mono.

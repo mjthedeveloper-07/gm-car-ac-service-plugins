@@ -15,7 +15,7 @@ free conversion lever: response inside 5 minutes multiplies contact rate several
 ## Workflow
 
 1. Identify the lead path: WhatsApp inbound, web form, answered call, or missed call.
-2. Write the immediate-response template (acknowledge + one qualifying question + booking step), then the 30-minute callback script, then the same-day and next-day recovery messages for no-answer.
+2. Write the immediate-response template (acknowledge + one qualifying question + booking step), then the callback script, then the day-of and next-day recovery messages for no-answer.
 3. Define the daily audit: yesterday's leads from `growth_leads` — time-to-first-response per lead, count over 30 minutes, count never answered. One WhatsApp summary line to the MD.
 4. Assign ownership: front desk owns the clock during open hours; after-hours leads get an auto-style first reply and a 9:30 AM callback slot.
 5. Report weekly: median response time, % under 30 min, booking rate vs the ≥60% target — into the Growth Tracking Center weekly scorecard.

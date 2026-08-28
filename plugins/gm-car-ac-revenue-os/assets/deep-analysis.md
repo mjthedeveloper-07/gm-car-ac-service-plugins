@@ -115,7 +115,7 @@ Actions:
 - Post 3 to 5 times per week across A/C, general servicing, electricals, pickup/drop, fleet, and workshop.
 - Add services for AC gas filling, compressor repair, general service, oil change, filters, brake pad cleaning, battery, alternator, wiring, and car electrical diagnosis.
 - Reply to every review with service keywords and local context.
-- Add Q&A answers for price, leak check, pickup/drop, same-day service, warranty, and brands served.
+- Add Q&A answers for price, leak check, pickup/drop, turnaround expectations, and brands served. Do not author same-day or warranty answers — both are banned claims.
 
 ### 2. Instagram `@gmcaracservice`
 

@@ -8,7 +8,7 @@ Use this when building sales scripts or objection handling for gmcaracservice.co
 - Location: Ambattur, Chennai
 - Core service: car AC repair, AC gas filling, compressor repair, condenser replacement, cooling coil service, auto electrical service
 - Founder: Manigandan G
-- Proof: 7+ years experience, 6,000+ vehicles served, 4.9 Google rating, 500+ reviews
+- Proof: independent multibrand workshop, founded 2019, founder-led. Never state a rating, a review count or a vehicle count — invite the customer to read the Google reviews
 - CTA: call or WhatsApp +91 8428000085
 - Convenience: free pickup and drop across Chennai
 - Price anchor: AC gas filling from INR 1,500 single module, INR 2,200 double module, includes leak check
@@ -26,16 +26,16 @@ Use this when building sales scripts or objection handling for gmcaracservice.co
 ## Common Objections
 
 - Price: explain diagnosis, leak check, and upfront estimate.
-- Trust: cite reviews, years, founder-led workshop, and genuine parts.
-- Time: explain same-day availability for common repairs and realistic timelines for parts.
+- Trust: cite the years in business and the founder-led workshop; never cite a rating or a review count.
+- Time: explain booked-slot availability and realistic timelines for parts.
 - "Just fill gas": explain why leak check prevents repeat spending.
 - Brand fit: confirm multibrand service including luxury and commercial vehicles.
 - Dealer comparison: frame as specialist diagnostics with transparent pricing.
-- Warranty: explain warranty varies by part and work, and is explained before work starts.
+- Warranty: GM publishes no warranty term. Say the work is quoted after diagnosis and inspected before handover, and route any warranty question to the workshop.
 
 ## Close Options
 
-- Book free diagnosis.
+- Book the free 30-point A/C and electrical checkup.
 - Schedule pickup/drop.
 - WhatsApp vehicle model, area, and symptom.
 - Visit workshop during open hours.

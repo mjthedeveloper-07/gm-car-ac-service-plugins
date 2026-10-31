@@ -1,6 +1,6 @@
 # gmcaracservice mcp Server
 
-A Model Context Protocol (MCP) server that packages 22 advanced revenue-generation and local-service operations skills for Claude. Built from the brand context of `gmcaracservice.com` (Chennai's trusted car AC and auto electrical specialist) and elite business growth frameworks.
+A Model Context Protocol (MCP) server that packages 22 advanced revenue-generation and local-service operations skills for Claude. Built from the brand context of `gmcaracservice.com` (Chennai car A/C and general service workshop) and elite business growth frameworks.
 
 With this plugin installed, Claude gains direct access to tools for building offers, rewriting landing pages, handling objections, scripting WhatsApp/calls, creating ad creatives, scheduling content calendars, and running local SEO campaigns.
 
@@ -39,9 +39,9 @@ Once installed, Claude will have access to the following dynamic tools. You can 
 * `marketing_campaign_agent` - Plan campaigns and launch calendars.
 * `social_media_handler` - Generate organic content calendars, captions, and comments.
 
-### 🚗 GM Car AC & Auto Electrical Specific Skills
+### 🚗 GM Car AC Specific Skills
 * `gm_car_ac_growth_orchestrator` - Main orchestrator routing requests to specialized GM agents.
-* `gm_service_offer_builder` - Build specialized AC service, general service, electrical diagnostic, and workshop offers.
+* `gm_service_offer_builder` - Build specialized AC service, general service and workshop offers.
 * `gm_landing_page_conversion_agent` - Review and rewrite gmcaracservice.com landing page content.
 * `gm_ad_creative_agent` - Generate Facebook, Google, and Instagram ads for GM Car AC.
 * `gm_whatsapp_sales_agent` - Write interactive WhatsApp chats, quotes, and booking confirmations.

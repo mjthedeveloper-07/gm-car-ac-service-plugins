@@ -21,7 +21,7 @@ Use a mix of:
 
 - Symptom: "AC not cooling even after gas filling?"
 - Cost of delay: "A small leak can become a compressor bill."
-- Price clarity: "Car AC gas filling from INR 1,500 with leak check."
+- Price clarity: "Car AC gas filling quoted in writing after the free checkup, with leak check."
 - Proof: "6,000+ Chennai vehicles serviced."
 - Convenience: "Free pickup and drop across Chennai."
 - Seasonality: "Summer slots fill fast."

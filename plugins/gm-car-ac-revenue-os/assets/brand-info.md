@@ -7,7 +7,7 @@ Source: https://gmcaracservice.com/
 - Brand name: GM Car A/C Service
 - Publisher: GM Car AC Service
 - Founder and lead technician: Manigandan G
-- Positioning: Chennai's trusted diagnostic-first car AC and auto electrical specialist
+- Positioning: Chennai's diagnostic-first car A/C and general service workshop
 - Location: Ambattur, Chennai
 - Revenue target: INR 10 crore annual revenue
 
@@ -15,7 +15,8 @@ Source: https://gmcaracservice.com/
 
 Two desks, split by AUDIENCE (per `contacts.js`, the running source of truth), not by channel:
 
-- **Retail (individual car owners): +91 8428000085** — call AND WhatsApp. `https://wa.me/918428000085`. Use for every consumer-facing CTA.
+- **Public number, retail and fleet: +91 8889360888** — call AND WhatsApp. `https://wa.me/918889360888`. Use for every CTA.
+- **M.D direct line: +91 8428000085** — only where the M.D is named, never a CTA.
 - **Fleet / B2B: +91 8889360888** — call AND WhatsApp. `https://wa.me/918889360888`. Use for every fleet/B2B-facing CTA (e.g. fleet outreach content).
 
 Do not treat either number as call-only or WhatsApp-only — both desks take calls and WhatsApp. The error to avoid is using the wrong AUDIENCE's number, not the wrong channel.
@@ -55,16 +56,15 @@ Re-verify this block against the live profile before any paid campaign.
 
 Four service categories — the definitive list. Never invent a fifth.
 
-1. **Car AC Service** — gas filling ₹1,500 single module / ₹2,200 double module (fixed, published, leak check included); compressor, condenser, cooling coil, evaporator, leak, filter, blower — diagnosis first, estimate before approval
-2. **Car General Service** — periodic maintenance, inspection, brake, suspension, clutch, coolant and fluid checks. **Published: ₹4,499 petrol / ₹5,699 diesel. Essential Service from ₹2,499.** Mandatory disclaimer wherever these prices appear: *"Price varies with the quantity and brand of oil your car needs."*
-3. **Car Electrical Service** — battery, alternator, starter, wiring, fuses, relays, sensors, blower diagnosis — call for quote
+1. **Car AC Service** — gas filling with leak check included, quoted after the free checkup; compressor, condenser, cooling coil, evaporator, leak, filter, blower — diagnosis first, estimate before approval
+2. **Car General Service** — periodic maintenance, inspection, brake, suspension, clutch, coolant and fluid checks. Quoted after the free checkup.
 4. **Car Oil Service** — engine oil and oil-filter replacement at the service interval, oil grade confirmed before the job — call for quote
 
-- **Fleet servicing** — the same four categories for taxis, delivery fleets, school buses, vans, coaches, dealers and logistics operators, under contract with monthly statements
+- **Fleet servicing** — the same three categories for taxis, delivery fleets, school buses, vans, coaches, dealers and logistics operators, under contract with monthly statements
 - **Book — GM Car A/C Service Manual:** ₹799 Premium Digital PDF (e-book) · ₹1,299 Premium Hardcover with free delivery. Single title, sold via `shop-ac-books.html`
-- **Book — per-brand A/C e-books** (5 titles): ₹749 single brand · ₹1,499 single full book · ₹2,999 all-five bundle
+- **Books** — ₹799 e-book, ₹1,299 hardcover, ₹249 *Cold Again*
 - **Training** — ₹52,999 3-day starter workshop; ₹52,999 flagship course
-- **Care plans** — GM Cool Care ₹2,999 / ₹6,499 petrol / ₹7,699 diesel / ₹9,999 per year
+- **Care plans** — GM Cool Care, quoted at enrolment
 - **Free 30-point A/C & electrical checkup — ₹0.** Standalone, no purchase required, no obligation to repair. Written report, ~15 min. This is the lead magnet; lead with it
 - **Pickup and drop** — available on request for qualifying bookings only. **Never described as free or as a standing offer.** It spends technician hours, which is the constraint on the business
 
@@ -96,7 +96,7 @@ Canonical palette (from live site `assets/css/gm-2026.css`, effective 2026-07 re
 - WhatsApp green (third-party brand color, keep as-is): `#25D366`
 - Typography: Manrope (primary), Inter (fallback)
 - Tagline: **"We diagnose before we replace."**
-  Secondary lines by service: *"Every warning light deserves a clear answer."* (electrical) · *"Routine care that protects every drive."* (general service).
+  Secondary lines by service: *"Routine care that protects every drive."* (general service).
   Retired: "Car A/C service that keeps every drive cool." — generic; any workshop could claim it.
 
 ## Positioning rules

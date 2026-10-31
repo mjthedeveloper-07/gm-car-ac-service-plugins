@@ -16,9 +16,7 @@ toward the INR 52,999 course.
 ## Two product lines, two different buyers
 
 Never write one message for both:
-
-- **Five per-brand A/C e-books** (INR 749 single / INR 1,499 full / INR 2,999 bundle) target
-  **car owners** searching a specific brand problem. Their next step is a service booking.
+- Books: ₹799 e-book, ₹1,299 hardcover, ₹249 *Cold Again*.
 - **GM Car A/C Service Manual** (INR 799 e-book / INR 1,299 hardcover, free delivery) targets
   **aspiring technicians**. Their next step is the INR 52,999 course.
 

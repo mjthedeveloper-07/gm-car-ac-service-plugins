@@ -7,8 +7,7 @@ description: Drive GM Car A/C Service care plan revenue with counter attach scri
 
 For GM Car A/C Service tasks, read `references/gm-car-ac-service.md`.
 
-Canonical prices: **Basic ₹2,999/yr** (2 AC check-ups, priority booking, 10% parts discount) and
-**Complete ₹6,499/yr petrol, ₹7,699/yr diesel** (4 visits incl. general service, 10% parts discount). Valid at both branches. Sell prepaid convenience + price-lock + summer priority — never a
+Canonical rule: plan prices are quoted at enrolment and never published. general service, 10% parts discount). Valid at both branches. Sell prepaid convenience + price-lock + summer priority — never a
 discount. Source funnel: `03-SALES-FUNNELS/care-plan-funnel/`.
 
 ## Workflow

@@ -62,19 +62,20 @@ Never present these as GM's own numbers. Use them to judge whether a GM number i
 - Business: GM Car A/C Service
 - Location: Ambattur, Chennai
 - Founder and lead technician: Manigandan G
-- Positioning: Chennai's trusted diagnostic-first car AC and auto electrical specialist
+- Positioning: Chennai's diagnostic-first car A/C and general service workshop
 - Revenue target: INR 10 crore annual revenue
 - Primary conversion actions: call, WhatsApp, appointment booking, free callback, free 30-point checkup, training enrollment
 - Instagram handle: `@gmcaracservice`
 
 ## Service Pillars
 
-GM sells four service categories. This is the definitive list — never invent a fifth, and never
+GM sells three service categories. This is the definitive list — never invent a fourth, and never
 fold oil service back into general service.
 
+Not offered (owner, 2026-10-30): electrical repairs, battery, towing, breakdown, engine or gearbox repair, clutch, brake and suspension repair, tyres, denting, painting, accident repair, windshield, independent spare-parts sales. "Free 30-point A/C and electrical checkup" keeps its name and is an inspection.
+
 - Car A/C service: car AC repair, AC gas filling, leak check, compressor diagnosis and repair, condenser replacement, cooling coil service, evaporator, filter, blower and relay checks, bus AC, commercial vehicle AC.
-- Car general service: periodic general service, inspection, brake pad cleaning, air and diesel filter replacement, brake, suspension, clutch, coolant and fluid checks.
-- Car electrical service: battery testing, alternator diagnosis, starter, wiring fault repair, fuse diagnosis, lighting issues, sensor-related checks, AC compressor relay repair, blower motor repair, and in-house troubleshooting for all car electrical services.
+- Car general service: periodic general service, inspection, air and diesel filter replacement, and brake, suspension, clutch, coolant and fluid inspection.
 - Car oil service: engine oil and oil-filter replacement at the service interval, with the oil grade and work confirmed before the job begins.
 
 ## Income Sources
@@ -82,13 +83,13 @@ fold oil service back into general service.
 Every rupee GM earns comes from one of these. Canonical definitions live in the GM vault at
 `05-GROWTH-OPS-SOPS/GM-GROWTH-OS/REVENUE-DEFINITIONS-SOURCE-OF-TRUTH.md`.
 
-- The four service categories above, sold retail to walk-in customers. Revenue stream `retail`.
-- Fleet servicing: the same four categories for taxis, delivery fleets, school buses, vans, tourist coaches, used-car dealers and logistics operators, on contract with monthly statements. Revenue stream `fleet`.
+- The three service categories above, sold retail to walk-in customers. Revenue stream `retail`.
+- Fleet servicing: the same three categories for taxis, delivery fleets, school buses, vans, tourist coaches, used-car dealers and logistics operators, on contract with monthly statements. Revenue stream `fleet`.
 - Care plans and AMC subscriptions. Revenue stream `care_plan`.
 - Training: the ₹52,999 three-day starter workshop and the ₹52,999 flagship course. Revenue stream `training`.
 - Books — two separate product lines, both live. Revenue stream `digital`:
   - GM Car A/C Service Manual, one title: ₹799 Premium Digital PDF, or ₹1,299 Premium Hardcover with free delivery.
-  - Five per-brand A/C e-books: ₹749 single brand, ₹1,499 single full book, ₹2,999 all-five bundle.
+- Books: ₹799 e-book, ₹1,299 hardcover, ₹249 *Cold Again*.
 - Parts and supply sales. Revenue stream `supply`.
 
 Book rules for all generated copy:
@@ -136,26 +137,12 @@ Hard rules for all generated copy:
 - Diesel filter replacement
 - Air filter replacement
 
-## Electrical Services
-
-- Battery testing
-- Alternator diagnosis
-- Wiring fault repair
-- AC compressor relay repair
-- Blower motor repair
-- Fuse diagnosis
-- Lighting issues
-- Sensor-related electrical checks
-- In-house auto electrical troubleshooting
-- All car electrical services
-
 ## Revenue Paths
 
 - Service bookings
 - Higher average order value through general service upsells
 - 1-year care plan sales
 - Fleet contracts
-- Electrical repair jobs
 - Training workshop enrollments
 - Retargeting and reactivation
 - Referrals and reviews
@@ -169,12 +156,10 @@ Hard rules for all generated copy:
 
 ## Offers
 
-- AC gas filling from INR 1,500 for single module, leak check included
-- AC gas filling from INR 2,200 for double module, leak check included
-- 1-year care plan: Essential INR 2,999 (2 visits) or Complete INR 6,499 petrol / INR 7,699 diesel (4 visits incl. general service, 10% parts) or Master INR 9,999 (4 visits, pick-up and drop, 15% parts)
-- General car service add-ons: car oil change, brake pad cleaning, oil filter, diesel filter, and air filter replacement
-- Full car electrical services and diagnostics
-- Free AC diagnosis, estimate, or callback when appropriate
+- AC gas filling: quoted in writing after the free 30-point checkup, leak check included
+- 1-year GM Cool Care plans, quoted at enrolment
+- General car service add-ons: car oil change, oil filter, diesel filter, and air filter replacement
+- Free 30-point checkup or callback when appropriate
 - Pickup and drop available on request for qualifying bookings (not free; spends technician hours)
 - 27-day hands-on technician course for INR 52,999
 - Fleet Cooling Care for taxis, vans, delivery fleets, buses, and commercial vehicles
@@ -188,8 +173,8 @@ Hard rules for all generated copy:
 
 ## Contacts
 
-- Retail (individual car owners): +91 8428000085 — call and WhatsApp
-- Fleet / B2B: +91 8889360888 — call and WhatsApp (use for fleet/taxi/delivery/dealer content)
+- Public number, retail and fleet: +91 8889360888 — call and WhatsApp
+- M.D direct line: +91 8428000085 — only where the M.D is named, never a CTA
 - Email: gmautocool@gmail.com
 - Website: https://gmcaracservice.com/
 - YouTube: https://www.youtube.com/@gmcaracservice
@@ -204,7 +189,7 @@ Hard rules for all generated copy:
 - Families preparing for summer travel
 - Used car owners and used car dealers
 - Taxi, delivery, logistics, bus, van, and fleet operators
-- Local garages needing specialist AC/electrical support
+- Local garages needing specialist A/C support
 - Automotive beginners interested in practical AC training
 
 ## Competitor Set To Track Near Ambattur
@@ -213,7 +198,6 @@ Accessible web search did not reliably expose verified named Google Maps competi
 
 - Independent car AC specialists
 - General car service garages
-- Car electrical and battery shops
 - Dealer-authorized service centers
 - Franchise/multibrand service networks
 - Mobile AC gas filling providers
@@ -226,10 +210,10 @@ For each competitor, capture name, distance from shop, Google rating, review cou
 ## Best Reaching Methods
 
 - Google Business Profile: daily/weekly service posts, review replies, service-category completeness, Q&A, local photos handled outside plugin assets, and call/WhatsApp tracking.
-- Instagram `@gmcaracservice`: Reels for AC not cooling, gas filling leak checks, oil/filter maintenance, electrical diagnosis, before-after proof, training workshop clips, founder authority, and customer FAQs.
+- Instagram `@gmcaracservice`: Reels for AC not cooling, gas filling leak checks, oil/filter maintenance, before-after proof, training workshop clips, founder authority, and customer FAQs.
 - WhatsApp: click-to-WhatsApp ads, missed-call recovery, estimate flows, pickup/drop scheduling, post-service review requests, and reactivation.
 - Local SEO: pages for Ambattur, Kallikuppam, Avadi, Padi, Korattur, Mogappair, Anna Nagar, Kolathur, Villivakkam, Thirumangalam, and Chennai-wide terms.
-- Paid ads: Meta local awareness, Google Search for urgent AC/electrical intent, retargeting for site visitors and Instagram engagers, and workshop enrollment campaigns.
+- Paid ads: Meta local awareness, Google Search for urgent A/C intent, retargeting for site visitors and Instagram engagers, and workshop enrollment campaigns.
 - Fleet outreach: taxi stands, delivery fleets, school buses, vans, used-car dealers, rental operators, garages, and logistics businesses.
 - Referral and retention: care plan upsell, 30/90/180-day reminders, review request, mechanic referral, fleet monthly check, and workshop alumni referral.
 
@@ -247,8 +231,8 @@ For each competitor, capture name, distance from shop, Google rating, review cou
 
 ## Recommended CTAs
 
-- Call +91 8428000085 (retail) — use +91 8889360888 for fleet/B2B campaigns
-- WhatsApp +91 8428000085 (retail) — use +91 8889360888 for fleet/B2B campaigns
+- Call +91 8889360888
+- WhatsApp +91 8889360888
 - Book free 30-point diagnostic checkup
 - Request pickup and drop (subject to availability)
 - Request a callback
@@ -270,7 +254,7 @@ For each competitor, capture name, distance from shop, Google rating, review cou
 
 ## Allowed Claims
 
-- Diagnostic-first car AC and auto electrical specialist
+- Diagnostic-first car A/C and general service workshop
 - Independent multi-brand workshop, founded 2019
 - Google reviews are public and the customer can read them; never state a rating or a review count
 - Pickup and drop available on request for qualifying bookings (not free; spends technician hours)
@@ -280,7 +264,7 @@ For each competitor, capture name, distance from shop, Google rating, review cou
 ## Claims To Avoid Unless Verified
 
 - Guaranteed repair for every issue
-- Fixed compressor or electrical repair price before inspection
+- Fixed compressor repair price before inspection
 - Every job diagnosed first, then quoted; work starts only on your approval
 - Job or income guarantees for training students
 - Fake scarcity, fake reviews, or invented certifications

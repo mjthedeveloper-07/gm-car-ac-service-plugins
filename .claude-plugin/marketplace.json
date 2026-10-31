@@ -9,7 +9,7 @@
       "name": "gm-car-ac-revenue-os",
       "source": "./plugins/gm-car-ac-revenue-os",
       "version": "1.0.0",
-      "description": "GM Car A/C Service Revenue OS: A/C repair, general servicing, electrical diagnosis, WhatsApp sales, phone scripts, and workshop assets.",
+      "description": "GM Car A/C Service Revenue OS: A/C repair, general servicing, WhatsApp sales, phone scripts, and workshop assets.",
       "keywords": ["car-ac", "revenue", "leads", "sales", "ads", "seo"]
     },
     {

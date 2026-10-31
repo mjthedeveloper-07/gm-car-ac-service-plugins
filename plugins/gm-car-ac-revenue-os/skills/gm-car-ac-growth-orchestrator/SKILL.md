@@ -8,7 +8,7 @@ description: Main orchestrator for the GM Car A/C Service AI revenue operating s
 ## Core Workflow
 
 1. Read `references/gm-car-ac-service.md` before doing GM-specific work.
-2. Identify the revenue path: service bookings, higher average order value, care plans, fleet contracts, general service upsells, electrical repair jobs, workshop enrollments, retargeting, referrals, or retention.
+2. Identify the revenue path: service bookings, higher average order value, care plans, fleet contracts, general service upsells, workshop enrollments, retargeting, referrals, or retention.
 3. Route the request to the right specialist skill:
    - Offers: `gm-service-offer-builder`
    - Landing pages: `gm-landing-page-conversion-agent`

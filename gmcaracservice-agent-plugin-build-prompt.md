@@ -1,5 +1,7 @@
 # Detailed Build Prompt: GM Car A/C Service Agent, Skill, Plugin, and MCP System
 
+> **Historical, 2026-10-30.** GM now sells car A/C and general service only, and +91 8889360888 is the public number. Electrical, battery and price content below is out of date. Do not use it.
+
 You are a senior Codex plugin architect and AI agent systems builder. Analyze and use the GM Car A/C Service website and existing local workspace to create a complete, free-first agent marketplace/plugin system for GM Car A/C Service.
 
 Primary site: `https://gmcaracservice.com/`
@@ -12,11 +14,11 @@ Important constraint: only mention and use the logo as the brand asset image. Do
 
 ## Site Analysis To Preserve
 
-GM Car A/C Service is a Chennai local-service business focused on car AC repair, AC gas filling, compressor repair, condenser replacement, cooling coil service, general car service, car oil change, brake pad cleaning, oil filter replacement, diesel filter replacement, air filter replacement, all car electrical services, auto electrical diagnostics, bus/commercial vehicle AC repair, and hands-on AC technician training.
+GM Car A/C Service is a Chennai local-service business focused on car AC repair, AC gas filling, compressor repair, condenser replacement, cooling coil service, general car service, car oil change, oil filter replacement, diesel filter replacement, air filter replacement, all car auto bus/commercial vehicle AC repair, and hands-on AC technician training.
 
 Core positioning:
-- Chennai's trusted diagnostic-first car AC and auto electrical specialist.
-- 10 crore revenue growth target: build every agent, skill, offer, campaign, and reporting workflow toward reaching INR 10 crore in annual revenue through service bookings, fleet contracts, care plans, general service upsells, electrical repair jobs, and training workshop enrollments.
+- Chennai's diagnostic-first car A/C and general service workshop.
+- 10 crore revenue growth target: build every agent, skill, offer, campaign, and reporting workflow toward reaching INR 10 crore in annual revenue through service bookings, fleet contracts, care plans, general service upsells, and training workshop enrollments.
 - Location: Ambattur, Chennai.
 - Founder and lead technician: Manigandan G.
 - Strong buying triggers: Chennai heat, AC not cooling, compressor faults, repeat gas filling, bad smell, electrical issues, fleet downtime, dealer overpricing.
@@ -30,10 +32,9 @@ Proof and trust signals:
 - Approved refrigerants (R134a and R1234yf).
 
 Offers to encode:
-- AC gas filling from INR 1,500 for single module, leak check included.
-- AC gas filling from INR 2,200 for double module, leak check included.
-- 1-year care plan: Essential INR 2,999 (2 visits) or Complete INR 6,499 petrol / INR 7,699 diesel (4 visits incl. general service, 10% parts) or Master INR 9,999 (4 visits, pick-up and drop, 15% parts).
-- General car service add-ons: car oil change, brake pad cleaning, oil filter replacement, diesel filter replacement, and air filter replacement.
+- AC gas filling: quoted in writing after the free 30-point checkup, leak check included
+- 1-year GM Cool Care plans, quoted at enrolment
+- General car service add-ons: car oil change, oil filter replacement, diesel filter replacement, and air filter replacement.
 - Full car electrical services: battery testing, alternator diagnosis, wiring fault repair, AC compressor relay repair, blower motor repair, fuse diagnosis, lighting issues, sensor-related electrical checks, and in-house auto electrical troubleshooting.
 - Free 30-point A/C and electrical checkup (30 points, written report, ~15 min) as the lead magnet. Never say "free diagnosis" or "free estimate" — both are banned claims. The free 30-point A/C and electrical checkup IS approved and is the lead magnet.
 - Free pickup and drop across Chennai.
@@ -70,7 +71,7 @@ Build a complete GM Car A/C Service AI revenue operating system as a Codex-compa
 
 Business target:
 - Make the top-level revenue goal INR 10 crore annual revenue.
-- Every agent must connect its outputs to at least one revenue path: service bookings, higher average order value, care plan sales, fleet contracts, general service upsells, electrical repair jobs, workshop enrollments, retargeting, referrals, or retention.
+- Every agent must connect its outputs to at least one revenue path: service bookings, higher average order value, care plan sales, fleet contracts, general service upsells, workshop enrollments, retargeting, referrals, or retention.
 - Include tracking and decision rules that help the owner understand which channels, offers, services, and agents are moving the business toward the INR 10 crore target.
 
 Do not make a generic chatbot. Build an operational system that can generate leads, improve conversion, create ad campaigns, handle sales conversations, support WhatsApp workflows, produce social content, improve landing pages, organize local SEO content, and support the training workshop funnel.
@@ -154,7 +155,7 @@ Create or complete the following specialist agents as skills. Each skill must ha
 
 ### 1. `gm-service-offer-builder`
 
-Build high-converting service offers for AC gas filling, diagnostic-first repair, compressor repair, general car service, car oil change, brake pad cleaning, oil filter replacement, diesel filter replacement, air filter replacement, all car electrical services, 1-year care plan, fleet cooling care, and workshop training.
+Build high-converting service offers for AC gas filling, diagnostic-first repair, compressor repair, general car service, car oil change, oil filter replacement, diesel filter replacement, air filter replacement, all car 1-year care plan, fleet cooling care, and workshop training.
 
 Outputs:
 - Offer name.
@@ -191,7 +192,7 @@ Campaign types:
 - Summer AC rescue.
 - Gas filling with leak check.
 - Compressor diagnosis.
-- General service: oil change, brake pad cleaning, oil filter, diesel filter, and air filter replacement.
+- General service: oil change, oil filter, diesel filter, and air filter replacement.
 - Full car electrical service and auto electrical diagnostics.
 - Free pickup/drop.
 - Fleet cooling care.
@@ -360,7 +361,7 @@ Create or update:
 It must include:
 - Business snapshot.
 - Core services.
-- General services: car oil change, brake pad cleaning, oil filter replacement, diesel filter replacement, air filter replacement.
+- General services: car oil change, oil filter replacement, diesel filter replacement, air filter replacement.
 - All car electrical services and auto electrical diagnostics.
 - INR 10 crore annual revenue target and the main revenue paths.
 - Offers.

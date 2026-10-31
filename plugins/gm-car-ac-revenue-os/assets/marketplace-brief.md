@@ -15,7 +15,6 @@ Every agent connects output to at least one revenue path:
 - Care plan sales
 - Fleet contracts
 - General service upsells
-- Electrical repair jobs
 - Training workshop enrollments
 - Retargeting
 - Referrals
@@ -59,7 +58,7 @@ Do not send emails, publish posts, modify live websites, or message customers wi
 1. Google Business Profile and local SEO for high-intent "near me" searches.
 2. Instagram `@gmcaracservice` Reels and story replies for local awareness and proof.
 3. WhatsApp-first intake, booking, missed-call recovery, and follow-up.
-4. Google Search ads for urgent A/C and electrical intent.
+4. Google Search ads for urgent A/C intent.
 5. Meta local awareness and retargeting for service, fleet, and workshop funnels.
 6. Fleet outreach to taxis, delivery fleets, vans, school buses, used-car dealers, and local garages.
 7. Review, referral, care-plan, and maintenance reminder systems.

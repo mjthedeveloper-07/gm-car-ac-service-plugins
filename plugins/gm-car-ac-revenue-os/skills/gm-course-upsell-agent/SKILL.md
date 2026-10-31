@@ -25,7 +25,7 @@ to `gm-training-workshop-agent`. This agent takes over at the Day-3 close.
 1. **Close on Day 3, in the room.** Peak belief is immediately after an attendee has fixed
    something with their own hands. A follow-up a week later sells to a colder person.
 2. **Show the gap, do not pitch features.** Three days taught one system. The 27 days cover
-   multi-brand diagnosis, compressor work, electrical, and how to charge for it.
+   multi-brand diagnosis, compressor work, and how to charge for it.
 3. **Sell earning, not learning.** A mechanic does not want a certificate. Frame the course as
    the route to charging AC rates, or to adding an AC bay to their own garage.
 4. **Apply the credit visibly** — "INR 52,999 minus the INR 52,999 you already paid."

@@ -1,5 +1,7 @@
 # GM Car A/C Service Deep Analysis
 
+> **Historical, 2026-10-30.** GM now sells car A/C and general service only, and +91 8889360888 is the public number. Electrical, battery and price content below is out of date. Do not use it.
+
 ## Scope
 
 This analysis positions GM Car A/C Service as a car servicing garage with four service categories:
@@ -13,7 +15,7 @@ Alongside these, GM earns from fleet servicing contracts, care plans, training, 
 (the GM Car A/C Service Manual at INR 799 digital / INR 1,299 hardcover, and the five per-brand
 A/C e-books), and parts/supply sales.
 
-The operating target is INR 10 crore annual revenue through service bookings, higher average order value, care plans, fleet contracts, electrical repair jobs, training enrollments, book sales, the INR 199 returning-customer and referral offer, and retention.
+The operating target is INR 10 crore annual revenue through service bookings, higher average order value, care plans, fleet contracts, training enrollments, book sales, the INR 199 returning-customer and referral offer, and retention.
 
 ## Verified Local Context
 
@@ -65,7 +67,6 @@ Track these competitor types within Ambattur, Kallikuppam, Padi, Korattur, Mogap
 
 - Independent car AC specialists
 - General car service garages
-- Car electrical and battery shops
 - Dealer-authorized service centers
 - Franchise/multibrand service networks
 - Mobile AC gas filling providers
@@ -113,7 +114,7 @@ Priority: highest for urgent service intent.
 Actions:
 
 - Post 3 to 5 times per week across A/C, general servicing, electricals, pickup/drop, fleet, and workshop.
-- Add services for AC gas filling, compressor repair, general service, oil change, filters, brake pad cleaning, battery, alternator, wiring, and car electrical diagnosis.
+- Add services for AC gas filling, compressor repair, general service, oil change, filters, battery, alternator, wiring, and car electrical diagnosis.
 - Reply to every review with service keywords and local context.
 - Add Q&A answers for price, leak check, pickup/drop, turnaround expectations, and brands served. Do not author same-day or warranty answers — both are banned claims.
 
@@ -149,7 +150,7 @@ Actions:
 
 - Use click-to-WhatsApp links on ads, posts, site, and GBP.
 - Ask vehicle model, issue, area, urgency, pickup/drop preference.
-- Separate flows for A/C, general service, electrical, fleet, and training.
+- Separate flows for A/C, general service, fleet, and training.
 - Send booking confirmation and post-service review request.
 
 ### 4. Local SEO
@@ -203,7 +204,7 @@ Week 1:
 
 - Update all service listings and GBP service categories.
 - Build competitor tracker.
-- Publish A/C, general service, and electrical diagnosis posts.
+- Publish A/C, general service diagnosis posts.
 - Create WhatsApp intake flows.
 
 Week 2:

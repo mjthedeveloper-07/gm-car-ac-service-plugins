@@ -46,7 +46,7 @@ Each ad must be specific enough for a media buyer or content creator to produce.
 
 - Brand: GM Car A/C Service
 - Location: Ambattur, Chennai
-- CTA: call or WhatsApp +91 8428000085
+- CTA: call or WhatsApp +91 8889360888
 - Proof: independent multibrand workshop, founded 2019, founder-led. Never state a rating, a review count or a vehicle count — invite the customer to read the Google reviews
 - Convenience: free pickup and drop across Chennai
 
@@ -60,7 +60,6 @@ Each ad must be specific enough for a media buyer or content creator to produce.
 - Oil filter replacement
 - Diesel filter replacement
 - Air filter replacement
-- Battery testing, alternator diagnosis, wiring fault repair, AC relay, blower motor, lighting, and all car electrical services
 
 ## Strong Ad Angles
 
@@ -69,6 +68,5 @@ Each ad must be specific enough for a media buyer or content creator to produce.
 - Diagnosis on a booked slot
 - Pickup/drop for busy owners
 - Oil change and filters in one visit
-- Electrical fault diagnosis in-house
 - Fleet, taxi, bus, and delivery vehicle maintenance
 - Review proof and founder-led trust

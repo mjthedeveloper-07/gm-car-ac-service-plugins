@@ -1,6 +1,6 @@
 ---
 name: gm-service-offer-builder
-description: Build high-converting GM Car A/C Service offers for AC repair, gas filling, compressor diagnosis, general service, oil change, filters, brake pad cleaning, electrical services, care plans, fleet cooling care, and training workshop enrollment.
+description: Build high-converting GM Car A/C Service offers for AC repair, gas filling, compressor diagnosis, general service, oil change, filters, care plans, fleet cooling care, and training workshop enrollment.
 ---
 
 # GM Service Offer Builder

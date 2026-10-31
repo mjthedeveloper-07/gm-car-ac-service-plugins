@@ -11,7 +11,7 @@ For GM Car A/C Service tasks, read `references/gm-car-ac-service.md`.
 
 1. Identify customer stage: post-service, review-ready, care-plan fit, reminder due, referral fit, or dormant.
 2. Write messages for WhatsApp/SMS/email with clear consent and opt-out notes.
-3. Create 30/90/180-day follow-ups tied to AC checks, oil/filter service, electrical checks, care plans, or referrals.
+3. Create 30/90/180-day follow-ups tied to AC checks, oil/filter service, care plans, or referrals.
 4. Add CRM tags and success metrics.
 5. Keep claims factual and service-specific.
 

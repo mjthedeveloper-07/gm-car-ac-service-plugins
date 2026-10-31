@@ -1,7 +1,7 @@
 {
   "name": "gm-car-ac-revenue-os",
   "version": "0.1.0",
-  "description": "A free-first AI revenue operating system for GM Car A/C Service: A/C, general servicing, car electricals, competitors, ads, local SEO, WhatsApp sales, fleet outreach, and training growth.",
+  "description": "A free-first AI revenue operating system for GM Car A/C Service: A/C, general servicing, competitors, ads, local SEO, WhatsApp sales, fleet outreach, and training growth.",
   "author": {
     "name": "GM Car AC Service"
   },
@@ -21,7 +21,7 @@
   "interface": {
     "displayName": "GM Car AC Revenue OS",
     "shortDescription": "Free-first GM revenue control center.",
-    "longDescription": "A Codex-compatible AI revenue operating system for GM Car A/C Service in Ambattur, Chennai. It coordinates A/C service growth, general servicing, car electricals, competitor tracking, offers, ads, landing pages, WhatsApp sales, call scripts, local SEO, fleet outreach, Instagram content for @gmcaracservice, retention, analytics, and the INR 10 crore annual revenue target.",
+    "longDescription": "A Codex-compatible AI revenue operating system for GM Car A/C Service in Ambattur, Chennai. It coordinates A/C service growth, general servicing, competitor tracking, offers, ads, landing pages, WhatsApp sales, call scripts, local SEO, fleet outreach, Instagram content for @gmcaracservice, retention, analytics, and the INR 10 crore annual revenue target.",
     "developerName": "GM Car AC Service",
     "category": "Productivity",
     "capabilities": [

@@ -10,9 +10,9 @@ For GM Car A/C Service tasks, read `references/gm-car-ac-service.md`.
 ## Workflow
 
 1. Separate verified facts from assumptions. Do not invent competitor names if search results are not reliable.
-2. Build the competitor map by category: AC specialists, general garages, electrical shops, dealer-authorized centers, franchise networks, mobile gas filling providers, used-car dealer workshops, and fleet garages.
+2. Build the competitor map by category: AC specialists, general garages, dealer-authorized centers, franchise networks, mobile gas filling providers, used-car dealer workshops, and fleet garages.
 3. For each verified competitor, capture distance, rating, review count, service categories, offers, proof, photos/videos, Instagram activity, Google posts, CTA quality, and weak reviews.
-4. Identify GM's advantage by pillar: A/C, general servicing, car electricals, fleet, and training.
+4. Identify GM's advantage by pillar: A/C, general servicing, fleet, and training.
 5. Recommend reach methods by priority, effort, expected lead quality, and revenue path.
 
 ## Competitor Data To Capture

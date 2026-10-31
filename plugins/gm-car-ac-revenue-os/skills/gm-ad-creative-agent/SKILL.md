@@ -1,6 +1,6 @@
 ---
 name: gm-ad-creative-agent
-description: Create GM Car A/C Service ad creative for Meta, Google, YouTube Shorts, Instagram Reels, local awareness, retargeting, AC rescue, gas filling, compressor diagnosis, general service, electrical diagnostics, fleet care, and workshop enrollment.
+description: Create GM Car A/C Service ad creative for Meta, Google, YouTube Shorts, Instagram Reels, local awareness, retargeting, AC rescue, gas filling, compressor diagnosis, general service, fleet care, and workshop enrollment.
 ---
 
 # GM Ad Creative Agent
@@ -9,7 +9,7 @@ For GM Car A/C Service tasks, read `references/gm-car-ac-service.md`.
 
 ## Workflow
 
-1. Select campaign type: Summer AC Rescue, gas filling with leak check, compressor diagnosis, general service, electrical service, pickup/drop, fleet care, or workshop enrollment.
+1. Select campaign type: Summer AC Rescue, gas filling with leak check, compressor diagnosis, general service, pickup/drop, fleet care, or workshop enrollment.
 2. Define audience, trigger, proof, CTA, and landing destination.
 3. Generate platform-specific creative without clickbait or fake urgency.
 4. Add a do-not-say list for claims that require inspection.

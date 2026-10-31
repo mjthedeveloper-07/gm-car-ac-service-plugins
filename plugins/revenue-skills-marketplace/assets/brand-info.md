@@ -7,15 +7,14 @@ Source: https://gmcaracservice.com/
 - Brand name: GM Car A/C Service
 - Marketplace publisher: GM Car AC Service
 - Founder: Manigandan G
-- Positioning: Chennai's trusted diagnostic-first car AC and auto electrical specialist
+- Positioning: Chennai's diagnostic-first car A/C and general service workshop
 - Location: 12A, Gangai Amman Kovil Street, Kallikuppam, Ambattur, Chennai 600053
 - Hours: Monday to Saturday, 10 AM to 8 PM
 
 ## Contact
 
-- **Calls: +91 8428000085** — Google Business Profile, all website `tel:` links, all print
-- **WhatsApp only: +91 8889360888** — `https://wa.me/918889360888`. Never used as a call-to number
-- These two are not interchangeable. `wa.me/918428000085` is wrong: that is the call number, not a WhatsApp account
+- **Public number, calls and WhatsApp: +91 8889360888** — `https://wa.me/918889360888`. Every website CTA
+- **M.D direct line: +91 8428000085** — only where the M.D is named, never a CTA
 - Email: gmautocool@gmail.com
 - Website: https://gmcaracservice.com/
 - YouTube: https://www.youtube.com/@gmcaracservice
@@ -39,8 +38,7 @@ Verified 2026-07-29 against the live Google Business Profile.
 
 ## Core Offers
 
-- AC gas filling from INR 1,500 for single module
-- AC gas filling from INR 2,200 for double module
+- AC gas filling: quoted in writing after the free 30-point checkup, leak check included
 - Leak check included with gas filling
 - 1-year AC care plan from INR 2,500
 - 27-day hands-on technician course for INR 52,999

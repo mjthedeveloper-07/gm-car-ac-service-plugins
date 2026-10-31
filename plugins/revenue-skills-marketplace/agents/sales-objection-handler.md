@@ -64,12 +64,12 @@ Use this when building sales scripts or objection handling for gmcaracservice.co
 
 - Business: GM Car A/C Service
 - Location: Ambattur, Chennai
-- Core service: car AC repair, AC gas filling, compressor repair, condenser replacement, cooling coil service, auto electrical service
+- Core service: car AC repair, AC gas filling, compressor repair, condenser replacement, cooling coil service
 - Founder: Manigandan G
 - Proof: independent multibrand workshop, founded 2019, founder-led. Never state a rating, a review count or a vehicle count — invite the customer to read the Google reviews
-- CTA: call or WhatsApp +91 8428000085
+- CTA: call or WhatsApp +91 8889360888
 - Convenience: free pickup and drop across Chennai
-- Price anchor: AC gas filling from INR 1,500 single module, INR 2,200 double module, includes leak check
+- Process anchor: free 30-point checkup first, written estimate before paid work
 
 ## Discovery Questions
 
